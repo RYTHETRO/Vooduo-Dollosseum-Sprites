@@ -20,6 +20,7 @@
   "name":"Vooduo Dollosseum Sprites",
   "resources":[
     {"id":{"name":"sCountDown","path":"sprites/sCountDown/sCountDown.yy",},},
+    {"id":{"name":"sDollTemplate","path":"sprites/sDollTemplate/sDollTemplate.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
