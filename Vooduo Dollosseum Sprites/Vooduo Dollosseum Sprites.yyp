@@ -21,6 +21,7 @@
   "resources":[
     {"id":{"name":"sCountDown","path":"sprites/sCountDown/sCountDown.yy",},},
     {"id":{"name":"sDollTemplate","path":"sprites/sDollTemplate/sDollTemplate.yy",},},
+    {"id":{"name":"sPointerTemplate","path":"sprites/sPointerTemplate/sPointerTemplate.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
