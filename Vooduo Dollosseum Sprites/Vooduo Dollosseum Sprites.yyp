@@ -19,9 +19,13 @@
   },
   "name":"Vooduo Dollosseum Sprites",
   "resources":[
+    {"id":{"name":"NeedleTemp","path":"sprites/NeedleTemp/NeedleTemp.yy",},},
+    {"id":{"name":"PointerTemp","path":"sprites/PointerTemp/PointerTemp.yy",},},
+    {"id":{"name":"sbuilddoll","path":"sprites/sbuilddoll/sbuilddoll.yy",},},
     {"id":{"name":"sCountDown","path":"sprites/sCountDown/sCountDown.yy",},},
     {"id":{"name":"sDollTemplate","path":"sprites/sDollTemplate/sDollTemplate.yy",},},
     {"id":{"name":"sPointerTemplate","path":"sprites/sPointerTemplate/sPointerTemplate.yy",},},
+    {"id":{"name":"Sprite7","path":"sprites/Sprite7/Sprite7.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
