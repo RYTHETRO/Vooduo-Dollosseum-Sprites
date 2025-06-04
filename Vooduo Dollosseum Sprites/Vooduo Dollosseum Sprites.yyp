@@ -25,7 +25,6 @@
     {"id":{"name":"sDollTemplate","path":"sprites/sDollTemplate/sDollTemplate.yy",},},
     {"id":{"name":"sLaserDoll","path":"sprites/sLaserDoll/sLaserDoll.yy",},},
     {"id":{"name":"sPointerTemplate","path":"sprites/sPointerTemplate/sPointerTemplate.yy",},},
-    {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},},
     {"id":{"name":"sWallDoll","path":"sprites/sWallDoll/sWallDoll.yy",},},
   ],
   "resourceType":"GMProject",
