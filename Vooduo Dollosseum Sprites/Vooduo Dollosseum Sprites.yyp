@@ -19,6 +19,10 @@
   },
   "name":"Vooduo Dollosseum Sprites",
   "resources":[
+    {"id":{"name":"AttackTutorial","path":"sprites/AttackTutorial/AttackTutorial.yy",},},
+    {"id":{"name":"CompassTutorial","path":"sprites/CompassTutorial/CompassTutorial.yy",},},
+    {"id":{"name":"DashSlashTutorial","path":"sprites/DashSlashTutorial/DashSlashTutorial.yy",},},
+    {"id":{"name":"MeditationTutorial","path":"sprites/MeditationTutorial/MeditationTutorial.yy",},},
     {"id":{"name":"NeedleTemp","path":"sprites/NeedleTemp/NeedleTemp.yy",},},
     {"id":{"name":"Online","path":"sprites/Online/Online.yy",},},
     {"id":{"name":"PikeEmote","path":"sprites/PikeEmote/PikeEmote.yy",},},
@@ -30,7 +34,6 @@
     {"id":{"name":"sLaserDoll","path":"sprites/sLaserDoll/sLaserDoll.yy",},},
     {"id":{"name":"sLobbySprites","path":"sprites/sLobbySprites/sLobbySprites.yy",},},
     {"id":{"name":"sPointerTemplate","path":"sprites/sPointerTemplate/sPointerTemplate.yy",},},
-    {"id":{"name":"Sprite17","path":"sprites/Sprite17/Sprite17.yy",},},
     {"id":{"name":"sWallDoll","path":"sprites/sWallDoll/sWallDoll.yy",},},
     {"id":{"name":"Tutorialbuttons","path":"sprites/Tutorialbuttons/Tutorialbuttons.yy",},},
     {"id":{"name":"TutorialObjectiveextra_2","path":"sprites/TutorialObjectiveextra_2/TutorialObjectiveextra_2.yy",},},

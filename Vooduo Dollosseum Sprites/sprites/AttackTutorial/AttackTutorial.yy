@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"TutorialObjectiveextra",
+  "%Name":"AttackTutorial",
   "bboxMode":0,
   "bbox_bottom":1599,
   "bbox_left":0,
@@ -12,16 +12,16 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"2a8032bf-dc11-44a8-8a21-8f3b765e6cd1","name":"2a8032bf-dc11-44a8-8a21-8f3b765e6cd1","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"c50f5aa9-550a-4159-8905-ce0131d5e8fa","name":"c50f5aa9-550a-4159-8905-ce0131d5e8fa","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":1600,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"55006293-c49f-4bb9-816d-3d632d377989","blendMode":0,"displayName":"default","isLocked":false,"name":"55006293-c49f-4bb9-816d-3d632d377989","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"104073ef-113f-40a5-a870-f2ee1ea53a72","blendMode":0,"displayName":"default","isLocked":false,"name":"104073ef-113f-40a5-a870-f2ee1ea53a72","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"TutorialObjectiveextra",
+  "name":"AttackTutorial",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"TutorialObjectiveextra",
+    "%Name":"AttackTutorial",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"TutorialObjectiveextra",
+    "name":"AttackTutorial",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -71,8 +71,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2a8032bf-dc11-44a8-8a21-8f3b765e6cd1","path":"sprites/TutorialObjectiveextra/TutorialObjectiveextra.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"2bb1a4ea-8c43-4721-b410-086b14c606ea","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c50f5aa9-550a-4159-8905-ce0131d5e8fa","path":"sprites/AttackTutorial/AttackTutorial.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"48067018-ab0e-4ea0-8127-bf3a6e5e0823","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
