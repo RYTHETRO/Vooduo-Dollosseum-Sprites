@@ -40,6 +40,7 @@
     {"id":{"name":"sCountDown","path":"sprites/sCountDown/sCountDown.yy",},},
     {"id":{"name":"sDollTemplate","path":"sprites/sDollTemplate/sDollTemplate.yy",},},
     {"id":{"name":"SeperateBankTutorial","path":"sprites/SeperateBankTutorial/SeperateBankTutorial.yy",},},
+    {"id":{"name":"ShadowEmote","path":"sprites/ShadowEmote/ShadowEmote.yy",},},
     {"id":{"name":"sKateyRun","path":"sprites/sKateyRun/sKateyRun.yy",},},
     {"id":{"name":"sLaserDoll","path":"sprites/sLaserDoll/sLaserDoll.yy",},},
     {"id":{"name":"sLobbySprites","path":"sprites/sLobbySprites/sLobbySprites.yy",},},
