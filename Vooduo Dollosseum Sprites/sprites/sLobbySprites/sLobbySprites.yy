@@ -3,7 +3,7 @@
   "%Name":"sLobbySprites",
   "bboxMode":0,
   "bbox_bottom":1003,
-  "bbox_left":1289,
+  "bbox_left":1160,
   "bbox_right":1804,
   "bbox_top":686,
   "collisionKind":1,
