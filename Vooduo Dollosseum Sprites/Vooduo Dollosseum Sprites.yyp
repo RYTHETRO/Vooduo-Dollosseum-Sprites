@@ -50,6 +50,7 @@
     {"id":{"name":"PowlaEmote","path":"sprites/PowlaEmote/PowlaEmote.yy",},},
     {"id":{"name":"PowlaIdle","path":"sprites/PowlaIdle/PowlaIdle.yy",},},
     {"id":{"name":"sCountDown","path":"sprites/sCountDown/sCountDown.yy",},},
+    {"id":{"name":"sCountDownPortal","path":"sprites/sCountDownPortal/sCountDownPortal.yy",},},
     {"id":{"name":"sDollTemplate","path":"sprites/sDollTemplate/sDollTemplate.yy",},},
     {"id":{"name":"SeperateBankTutorial","path":"sprites/SeperateBankTutorial/SeperateBankTutorial.yy",},},
     {"id":{"name":"ShadowEmote","path":"sprites/ShadowEmote/ShadowEmote.yy",},},
