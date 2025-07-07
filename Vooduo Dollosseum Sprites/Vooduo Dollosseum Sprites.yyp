@@ -20,8 +20,8 @@
   "name":"Vooduo Dollosseum Sprites",
   "resources":[
     {"id":{"name":"AttackTutorial","path":"sprites/AttackTutorial/AttackTutorial.yy",},},
-    {"id":{"name":"BorisEmote","path":"sprites/BorisEmote/BorisEmote.yy",},},
     {"id":{"name":"BoxTanceTutorial","path":"sprites/BoxTanceTutorial/BoxTanceTutorial.yy",},},
+    {"id":{"name":"BrionyEmote","path":"sprites/BrionyEmote/BrionyEmote.yy",},},
     {"id":{"name":"Cactus","path":"sprites/Cactus/Cactus.yy",},},
     {"id":{"name":"ClawdiaEmote","path":"sprites/ClawdiaEmote/ClawdiaEmote.yy",},},
     {"id":{"name":"CompassTutorial","path":"sprites/CompassTutorial/CompassTutorial.yy",},},
@@ -73,6 +73,7 @@
     {"id":{"name":"VenEmote","path":"sprites/VenEmote/VenEmote.yy",},},
     {"id":{"name":"VenIdle","path":"sprites/VenIdle/VenIdle.yy",},},
     {"id":{"name":"WikiButtons","path":"sprites/WikiButtons/WikiButtons.yy",},},
+    {"id":{"name":"YaniIdle","path":"sprites/YaniIdle/YaniIdle.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
