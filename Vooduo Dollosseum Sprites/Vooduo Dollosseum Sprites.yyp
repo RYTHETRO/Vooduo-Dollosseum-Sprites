@@ -49,6 +49,7 @@
     {"id":{"name":"PointerTemp","path":"sprites/PointerTemp/PointerTemp.yy",},},
     {"id":{"name":"PortalStageBackground","path":"sprites/PortalStageBackground/PortalStageBackground.yy",},},
     {"id":{"name":"PorterEmote","path":"sprites/PorterEmote/PorterEmote.yy",},},
+    {"id":{"name":"PorterIdle","path":"sprites/PorterIdle/PorterIdle.yy",},},
     {"id":{"name":"PorterPause","path":"sprites/PorterPause/PorterPause.yy",},},
     {"id":{"name":"PorterPauseButtons","path":"sprites/PorterPauseButtons/PorterPauseButtons.yy",},},
     {"id":{"name":"PorterStage","path":"sprites/PorterStage/PorterStage.yy",},},
