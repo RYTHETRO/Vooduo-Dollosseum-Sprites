@@ -59,6 +59,7 @@
     {"id":{"name":"PorterStage","path":"sprites/PorterStage/PorterStage.yy",},},
     {"id":{"name":"PowlaEmote","path":"sprites/PowlaEmote/PowlaEmote.yy",},},
     {"id":{"name":"PowlaIdle","path":"sprites/PowlaIdle/PowlaIdle.yy",},},
+    {"id":{"name":"PumpkinBite","path":"sprites/PumpkinBite/PumpkinBite.yy",},},
     {"id":{"name":"PumpkinIdle","path":"sprites/PumpkinIdle/PumpkinIdle.yy",},},
     {"id":{"name":"sCountDown","path":"sprites/sCountDown/sCountDown.yy",},},
     {"id":{"name":"sCountDownPortal","path":"sprites/sCountDownPortal/sCountDownPortal.yy",},},
