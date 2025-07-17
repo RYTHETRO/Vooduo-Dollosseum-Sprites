@@ -78,6 +78,8 @@
     {"id":{"name":"sPointerTemplate","path":"sprites/sPointerTemplate/sPointerTemplate.yy",},},
     {"id":{"name":"Sprite52","path":"sprites/Sprite52/Sprite52.yy",},},
     {"id":{"name":"sWallDoll","path":"sprites/sWallDoll/sWallDoll.yy",},},
+    {"id":{"name":"TangerineAttack","path":"sprites/TangerineAttack/TangerineAttack.yy",},},
+    {"id":{"name":"TangerineIdle","path":"sprites/TangerineIdle/TangerineIdle.yy",},},
     {"id":{"name":"Terminology","path":"sprites/Terminology/Terminology.yy",},},
     {"id":{"name":"TerminologyArrow","path":"sprites/TerminologyArrow/TerminologyArrow.yy",},},
     {"id":{"name":"Tutorialbuttons","path":"sprites/Tutorialbuttons/Tutorialbuttons.yy",},},
