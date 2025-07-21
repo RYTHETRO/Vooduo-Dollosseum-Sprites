@@ -23,8 +23,7 @@
   "height":200,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"dc99137d-bbe6-4303-b6e3-362fec0cc125","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"dc99137d-bbe6-4303-b6e3-362fec0cc125","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
-    {"$GMImageLayer":"","%Name":"d790c3c7-a944-4378-b6d8-3561c4a3c203","blendMode":0,"displayName":"Layer 2","isLocked":true,"name":"d790c3c7-a944-4378-b6d8-3561c4a3c203","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"6532e791-7861-4426-b918-0f1d4583d6a8","blendMode":0,"displayName":"default","isLocked":false,"name":"6532e791-7861-4426-b918-0f1d4583d6a8","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"VFTTrap",
   "nineSlice":null,
