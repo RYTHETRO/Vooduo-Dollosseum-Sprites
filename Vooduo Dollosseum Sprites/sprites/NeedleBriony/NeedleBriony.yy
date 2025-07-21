@@ -3,7 +3,7 @@
   "%Name":"NeedleBriony",
   "bboxMode":0,
   "bbox_bottom":90,
-  "bbox_left":38,
+  "bbox_left":39,
   "bbox_right":306,
   "bbox_top":27,
   "collisionKind":1,
