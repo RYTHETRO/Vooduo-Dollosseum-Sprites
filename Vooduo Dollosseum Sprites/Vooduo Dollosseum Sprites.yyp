@@ -49,6 +49,7 @@
     {"id":{"name":"MonsterName","path":"sprites/MonsterName/MonsterName.yy",},},
     {"id":{"name":"NeedleBriony","path":"sprites/NeedleBriony/NeedleBriony.yy",},},
     {"id":{"name":"NeedleTemp","path":"sprites/NeedleTemp/NeedleTemp.yy",},},
+    {"id":{"name":"NeonBackground","path":"sprites/NeonBackground/NeonBackground.yy",},},
     {"id":{"name":"Online","path":"sprites/Online/Online.yy",},},
     {"id":{"name":"OnlineNoPressure","path":"sprites/OnlineNoPressure/OnlineNoPressure.yy",},},
     {"id":{"name":"OpenShopTutorial","path":"sprites/OpenShopTutorial/OpenShopTutorial.yy",},},
