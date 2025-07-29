@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"93351fed-caaa-488d-b4fc-b8b036a52eb6","name":"93351fed-caaa-488d-b4fc-b8b036a52eb6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"b14b7ca0-a5eb-4fd2-baa9-d6283d04deef","name":"b14b7ca0-a5eb-4fd2-baa9-d6283d04deef","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":660,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"20aaa548-6cb2-4f15-a1ac-97d3c76fb4b2","blendMode":0,"displayName":"default","isLocked":false,"name":"20aaa548-6cb2-4f15-a1ac-97d3c76fb4b2","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"d90298d7-9546-4589-bff0-10f9b4397596","blendMode":0,"displayName":"default","isLocked":false,"name":"d90298d7-9546-4589-bff0-10f9b4397596","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"Stats",
   "nineSlice":null,
@@ -71,8 +71,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"93351fed-caaa-488d-b4fc-b8b036a52eb6","path":"sprites/Stats/Stats.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"ae605028-2149-4acf-8f8e-525e1c7ae3c0","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b14b7ca0-a5eb-4fd2-baa9-d6283d04deef","path":"sprites/Stats/Stats.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"5a90ea83-bd68-427b-8e86-43c786e5159d","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
