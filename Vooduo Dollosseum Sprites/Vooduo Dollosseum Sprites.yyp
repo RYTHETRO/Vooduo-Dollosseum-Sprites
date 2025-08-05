@@ -38,6 +38,7 @@
     {"id":{"name":"CragnetSplash","path":"sprites/CragnetSplash/CragnetSplash.yy",},},
     {"id":{"name":"DangBobbing","path":"sprites/DangBobbing/DangBobbing.yy",},},
     {"id":{"name":"DangIdle","path":"sprites/DangIdle/DangIdle.yy",},},
+    {"id":{"name":"DollSplashes","path":"sprites/DollSplashes/DollSplashes.yy",},},
     {"id":{"name":"DropBear","path":"sprites/DropBear/DropBear.yy",},},
     {"id":{"name":"DropBearTemp_2","path":"sprites/DropBearTemp_2/DropBearTemp_2.yy",},},
     {"id":{"name":"DropBearTemp","path":"sprites/DropBearTemp/DropBearTemp.yy",},},
