@@ -51,6 +51,7 @@
     {"id":{"name":"Eggform","path":"sprites/Eggform/Eggform.yy",},},
     {"id":{"name":"EggShield","path":"sprites/EggShield/EggShield.yy",},},
     {"id":{"name":"EggShieldSplat","path":"sprites/EggShieldSplat/EggShieldSplat.yy",},},
+    {"id":{"name":"EvineDollSplash","path":"sprites/EvineDollSplash/EvineDollSplash.yy",},},
     {"id":{"name":"GolemboEmote","path":"sprites/GolemboEmote/GolemboEmote.yy",},},
     {"id":{"name":"GolemiaSplash","path":"sprites/GolemiaSplash/GolemiaSplash.yy",},},
     {"id":{"name":"GolgatharSplash","path":"sprites/GolgatharSplash/GolgatharSplash.yy",},},
