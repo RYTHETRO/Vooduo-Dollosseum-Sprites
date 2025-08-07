@@ -23,7 +23,8 @@
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"cc66f930-72da-462e-bdcc-7049fcd234d7","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"cc66f930-72da-462e-bdcc-7049fcd234d7","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
-    {"$GMImageLayer":"","%Name":"aab96cdc-4df8-49f8-8932-1c57cc7e38bf","blendMode":0,"displayName":"default","isLocked":false,"name":"aab96cdc-4df8-49f8-8932-1c57cc7e38bf","opacity":49.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"ac379bba-ba1f-4d81-aa0f-b0bb090f062e","blendMode":0,"displayName":"Layer 2","isLocked":false,"name":"ac379bba-ba1f-4d81-aa0f-b0bb090f062e","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"aab96cdc-4df8-49f8-8932-1c57cc7e38bf","blendMode":0,"displayName":"default","isLocked":false,"name":"aab96cdc-4df8-49f8-8932-1c57cc7e38bf","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"NeedleDvil",
   "nineSlice":null,
