@@ -45,6 +45,7 @@
     {"id":{"name":"DropBearTemp_2","path":"sprites/DropBearTemp_2/DropBearTemp_2.yy",},},
     {"id":{"name":"DropBearTemp","path":"sprites/DropBearTemp/DropBearTemp.yy",},},
     {"id":{"name":"DvilDoll","path":"sprites/DvilDoll/DvilDoll.yy",},},
+    {"id":{"name":"DvilMeteor","path":"sprites/DvilMeteor/DvilMeteor.yy",},},
     {"id":{"name":"EggBomb","path":"sprites/EggBomb/EggBomb.yy",},},
     {"id":{"name":"Eggform","path":"sprites/Eggform/Eggform.yy",},},
     {"id":{"name":"EggShield","path":"sprites/EggShield/EggShield.yy",},},
