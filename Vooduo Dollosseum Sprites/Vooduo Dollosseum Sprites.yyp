@@ -107,6 +107,8 @@
     {"id":{"name":"TangerineAttack","path":"sprites/TangerineAttack/TangerineAttack.yy",},},
     {"id":{"name":"TangerineGrow","path":"sprites/TangerineGrow/TangerineGrow.yy",},},
     {"id":{"name":"TangerineIdle","path":"sprites/TangerineIdle/TangerineIdle.yy",},},
+    {"id":{"name":"TutorialGoalPoint","path":"sprites/TutorialGoalPoint/TutorialGoalPoint.yy",},},
+    {"id":{"name":"TutorialObjective","path":"sprites/TutorialObjective/TutorialObjective.yy",},},
     {"id":{"name":"TutorialSpeechBubble","path":"sprites/TutorialSpeechBubble/TutorialSpeechBubble.yy",},},
     {"id":{"name":"UnitTypesTutorial","path":"sprites/UnitTypesTutorial/UnitTypesTutorial.yy",},},
     {"id":{"name":"VenEmote","path":"sprites/VenEmote/VenEmote.yy",},},
