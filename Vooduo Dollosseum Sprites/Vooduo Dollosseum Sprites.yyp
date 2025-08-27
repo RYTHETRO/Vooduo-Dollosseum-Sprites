@@ -90,6 +90,7 @@
     {"id":{"name":"sDollTemplate","path":"sprites/sDollTemplate/sDollTemplate.yy",},},
     {"id":{"name":"SeperateBankTutorial","path":"sprites/SeperateBankTutorial/SeperateBankTutorial.yy",},},
     {"id":{"name":"sEvineDoll","path":"sprites/sEvineDoll/sEvineDoll.yy",},},
+    {"id":{"name":"sGloveDollSplash","path":"sprites/sGloveDollSplash/sGloveDollSplash.yy",},},
     {"id":{"name":"ShadowEmote","path":"sprites/ShadowEmote/ShadowEmote.yy",},},
     {"id":{"name":"ShoozSplash","path":"sprites/ShoozSplash/ShoozSplash.yy",},},
     {"id":{"name":"sKateyRun","path":"sprites/sKateyRun/sKateyRun.yy",},},
