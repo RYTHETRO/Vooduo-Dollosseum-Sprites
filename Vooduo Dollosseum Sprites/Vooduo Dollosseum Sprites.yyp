@@ -126,6 +126,7 @@
     {"id":{"name":"VFTTrapOpen","path":"sprites/VFTTrapOpen/VFTTrapOpen.yy",},},
     {"id":{"name":"Weapons","path":"sprites/Weapons/Weapons.yy",},},
     {"id":{"name":"WikiButtons","path":"sprites/WikiButtons/WikiButtons.yy",},},
+    {"id":{"name":"WordsCat","path":"sprites/WordsCat/WordsCat.yy",},},
     {"id":{"name":"YaniIdle","path":"sprites/YaniIdle/YaniIdle.yy",},},
     {"id":{"name":"YinYangSpinDisk","path":"sprites/YinYangSpinDisk/YinYangSpinDisk.yy",},},
     {"id":{"name":"YinYangSplash","path":"sprites/YinYangSplash/YinYangSplash.yy",},},
