@@ -108,6 +108,7 @@
     {"id":{"name":"Sprite88","path":"sprites/Sprite88/Sprite88.yy",},},
     {"id":{"name":"sSummonDoll","path":"sprites/sSummonDoll/sSummonDoll.yy",},},
     {"id":{"name":"sTamerDollSplash","path":"sprites/sTamerDollSplash/sTamerDollSplash.yy",},},
+    {"id":{"name":"SummonDollSplash","path":"sprites/SummonDollSplash/SummonDollSplash.yy",},},
     {"id":{"name":"sWallDoll","path":"sprites/sWallDoll/sWallDoll.yy",},},
     {"id":{"name":"sWallDollSplash","path":"sprites/sWallDollSplash/sWallDollSplash.yy",},},
     {"id":{"name":"Tags","path":"sprites/Tags/Tags.yy",},},
