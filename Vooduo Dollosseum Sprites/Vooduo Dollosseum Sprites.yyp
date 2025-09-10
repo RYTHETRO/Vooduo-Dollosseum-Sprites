@@ -21,6 +21,7 @@
   "resources":[
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"BlackDragon","path":"sprites/BlackDragon/BlackDragon.yy",},},
     {"id":{"name":"BobBurgerBack","path":"sprites/BobBurgerBack/BobBurgerBack.yy",},},
     {"id":{"name":"BobBurgerFront","path":"sprites/BobBurgerFront/BobBurgerFront.yy",},},
     {"id":{"name":"BobBurgerSide","path":"sprites/BobBurgerSide/BobBurgerSide.yy",},},
@@ -119,6 +120,7 @@
     {"id":{"name":"TangerineGrow","path":"sprites/TangerineGrow/TangerineGrow.yy",},},
     {"id":{"name":"TangerineIdle","path":"sprites/TangerineIdle/TangerineIdle.yy",},},
     {"id":{"name":"TextTop","path":"sprites/TextTop/TextTop.yy",},},
+    {"id":{"name":"TileTurnNinja","path":"sprites/TileTurnNinja/TileTurnNinja.yy",},},
     {"id":{"name":"Tutorial2","path":"sprites/Tutorial2/Tutorial2.yy",},},
     {"id":{"name":"TutorialPages","path":"sprites/TutorialPages/TutorialPages.yy",},},
     {"id":{"name":"TutorialSpeechBubble","path":"sprites/TutorialSpeechBubble/TutorialSpeechBubble.yy",},},
