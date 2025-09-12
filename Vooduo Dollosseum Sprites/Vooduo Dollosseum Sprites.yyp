@@ -91,6 +91,7 @@
     {"id":{"name":"PumpkinGrow","path":"sprites/PumpkinGrow/PumpkinGrow.yy",},},
     {"id":{"name":"PumpkinIdle","path":"sprites/PumpkinIdle/PumpkinIdle.yy",},},
     {"id":{"name":"SallySprite","path":"sprites/SallySprite/SallySprite.yy",},},
+    {"id":{"name":"sBearoll","path":"sprites/sBearoll/sBearoll.yy",},},
     {"id":{"name":"sCandoll","path":"sprites/sCandoll/sCandoll.yy",},},
     {"id":{"name":"sCountDown","path":"sprites/sCountDown/sCountDown.yy",},},
     {"id":{"name":"sDollTemplate","path":"sprites/sDollTemplate/sDollTemplate.yy",},},
