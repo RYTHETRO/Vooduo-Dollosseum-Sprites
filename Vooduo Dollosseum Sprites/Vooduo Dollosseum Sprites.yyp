@@ -110,6 +110,7 @@
     {"id":{"name":"SneakerSallyFront2","path":"sprites/SneakerSallyFront2/SneakerSallyFront2.yy",},},
     {"id":{"name":"SneakerSallySide","path":"sprites/SneakerSallySide/SneakerSallySide.yy",},},
     {"id":{"name":"SneakerSallySide2","path":"sprites/SneakerSallySide2/SneakerSallySide2.yy",},},
+    {"id":{"name":"sNinjaDollSplash","path":"sprites/sNinjaDollSplash/sNinjaDollSplash.yy",},},
     {"id":{"name":"sPointerTemplate","path":"sprites/sPointerTemplate/sPointerTemplate.yy",},},
     {"id":{"name":"Sprite88","path":"sprites/Sprite88/Sprite88.yy",},},
     {"id":{"name":"sSummonDoll","path":"sprites/sSummonDoll/sSummonDoll.yy",},},
