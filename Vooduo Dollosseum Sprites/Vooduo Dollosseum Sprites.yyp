@@ -91,6 +91,7 @@
     {"id":{"name":"SallySprite","path":"sprites/SallySprite/SallySprite.yy",},},
     {"id":{"name":"sBearoll","path":"sprites/sBearoll/sBearoll.yy",},},
     {"id":{"name":"sBearollSplash","path":"sprites/sBearollSplash/sBearollSplash.yy",},},
+    {"id":{"name":"sBloodoll","path":"sprites/sBloodoll/sBloodoll.yy",},},
     {"id":{"name":"sCandoll","path":"sprites/sCandoll/sCandoll.yy",},},
     {"id":{"name":"sCountDown","path":"sprites/sCountDown/sCountDown.yy",},},
     {"id":{"name":"sDollTemplate","path":"sprites/sDollTemplate/sDollTemplate.yy",},},
