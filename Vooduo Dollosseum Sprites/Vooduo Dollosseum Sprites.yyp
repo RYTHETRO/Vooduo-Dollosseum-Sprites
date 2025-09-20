@@ -94,6 +94,7 @@
     {"id":{"name":"sBloodoll","path":"sprites/sBloodoll/sBloodoll.yy",},},
     {"id":{"name":"sCandoll","path":"sprites/sCandoll/sCandoll.yy",},},
     {"id":{"name":"sChainDoll","path":"sprites/sChainDoll/sChainDoll.yy",},},
+    {"id":{"name":"sComputerDoll","path":"sprites/sComputerDoll/sComputerDoll.yy",},},
     {"id":{"name":"sCountDown","path":"sprites/sCountDown/sCountDown.yy",},},
     {"id":{"name":"sDollTemplate","path":"sprites/sDollTemplate/sDollTemplate.yy",},},
     {"id":{"name":"sEvineDoll","path":"sprites/sEvineDoll/sEvineDoll.yy",},},
