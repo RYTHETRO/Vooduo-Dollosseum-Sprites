@@ -98,6 +98,7 @@
     {"id":{"name":"sBearollSplash","path":"sprites/sBearollSplash/sBearollSplash.yy",},},
     {"id":{"name":"sBloodoll","path":"sprites/sBloodoll/sBloodoll.yy",},},
     {"id":{"name":"sBloodollSplash","path":"sprites/sBloodollSplash/sBloodollSplash.yy",},},
+    {"id":{"name":"sBuildDollSplash","path":"sprites/sBuildDollSplash/sBuildDollSplash.yy",},},
     {"id":{"name":"sCandoll","path":"sprites/sCandoll/sCandoll.yy",},},
     {"id":{"name":"sCardoll","path":"sprites/sCardoll/sCardoll.yy",},},
     {"id":{"name":"scardollsplash","path":"sprites/scardollsplash/scardollsplash.yy",},},
