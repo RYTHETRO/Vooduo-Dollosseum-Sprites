@@ -133,6 +133,7 @@
     {"id":{"name":"TangerineIdle","path":"sprites/TangerineIdle/TangerineIdle.yy",},},
     {"id":{"name":"TextTop","path":"sprites/TextTop/TextTop.yy",},},
     {"id":{"name":"TileTurnNinja","path":"sprites/TileTurnNinja/TileTurnNinja.yy",},},
+    {"id":{"name":"TileTurnNinjaName","path":"sprites/TileTurnNinjaName/TileTurnNinjaName.yy",},},
     {"id":{"name":"TileTurnNinjaSplash","path":"sprites/TileTurnNinjaSplash/TileTurnNinjaSplash.yy",},},
     {"id":{"name":"Tutorial2","path":"sprites/Tutorial2/Tutorial2.yy",},},
     {"id":{"name":"TutorialPages","path":"sprites/TutorialPages/TutorialPages.yy",},},
