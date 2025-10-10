@@ -63,6 +63,7 @@
     {"id":{"name":"HarmonyEmote","path":"sprites/HarmonyEmote/HarmonyEmote.yy",},},
     {"id":{"name":"Hula","path":"sprites/Hula/Hula.yy",},},
     {"id":{"name":"HulaFinal","path":"sprites/HulaFinal/HulaFinal.yy",},},
+    {"id":{"name":"HulaFinalPoint","path":"sprites/HulaFinalPoint/HulaFinalPoint.yy",},},
     {"id":{"name":"JayDollSprite","path":"sprites/JayDollSprite/JayDollSprite.yy",},},
     {"id":{"name":"JaySword","path":"sprites/JaySword/JaySword.yy",},},
     {"id":{"name":"KrusherSplash","path":"sprites/KrusherSplash/KrusherSplash.yy",},},
