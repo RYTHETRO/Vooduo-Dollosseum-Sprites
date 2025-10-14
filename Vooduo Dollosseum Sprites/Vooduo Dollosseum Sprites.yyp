@@ -59,6 +59,8 @@
     {"id":{"name":"Grizzilla_final_1","path":"sprites/Grizzilla_final_1/Grizzilla_final_1.yy",},},
     {"id":{"name":"Grizzilla_final","path":"sprites/Grizzilla_final/Grizzilla_final.yy",},},
     {"id":{"name":"Grizzilla","path":"sprites/Grizzilla/Grizzilla.yy",},},
+    {"id":{"name":"GrizzillaNmae","path":"sprites/GrizzillaNmae/GrizzillaNmae.yy",},},
+    {"id":{"name":"GrizzillaSplash","path":"sprites/GrizzillaSplash/GrizzillaSplash.yy",},},
     {"id":{"name":"HarmonyDollSplash","path":"sprites/HarmonyDollSplash/HarmonyDollSplash.yy",},},
     {"id":{"name":"HarmonyEmote","path":"sprites/HarmonyEmote/HarmonyEmote.yy",},},
     {"id":{"name":"Hula","path":"sprites/Hula/Hula.yy",},},
