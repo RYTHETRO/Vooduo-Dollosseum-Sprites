@@ -70,6 +70,7 @@
     {"id":{"name":"JayDollSprite","path":"sprites/JayDollSprite/JayDollSprite.yy",},},
     {"id":{"name":"JayEmote","path":"sprites/JayEmote/JayEmote.yy",},},
     {"id":{"name":"JaySword","path":"sprites/JaySword/JaySword.yy",},},
+    {"id":{"name":"kateyIdle_2","path":"sprites/kateyIdle_2/kateyIdle_2.yy",},},
     {"id":{"name":"kateyIdle","path":"sprites/kateyIdle/kateyIdle.yy",},},
     {"id":{"name":"KrusherSplash","path":"sprites/KrusherSplash/KrusherSplash.yy",},},
     {"id":{"name":"KulnitaEmote","path":"sprites/KulnitaEmote/KulnitaEmote.yy",},},
