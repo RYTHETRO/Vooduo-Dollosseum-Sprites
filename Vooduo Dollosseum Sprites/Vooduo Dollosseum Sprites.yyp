@@ -21,8 +21,9 @@
   "resources":[
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"BlackDragon","path":"sprites/BlackDragon/BlackDragon.yy",},},
+    {"id":{"name":"BlackDragonExit_1","path":"sprites/BlackDragonExit_1/BlackDragonExit_1.yy",},},
     {"id":{"name":"BlackDragonExit","path":"sprites/BlackDragonExit/BlackDragonExit.yy",},},
+    {"id":{"name":"BlackDragonHole_1","path":"sprites/BlackDragonHole_1/BlackDragonHole_1.yy",},},
     {"id":{"name":"BlackDragonHole","path":"sprites/BlackDragonHole/BlackDragonHole.yy",},},
     {"id":{"name":"BobBurgerBack","path":"sprites/BobBurgerBack/BobBurgerBack.yy",},},
     {"id":{"name":"BobBurgerFront","path":"sprites/BobBurgerFront/BobBurgerFront.yy",},},
@@ -46,6 +47,7 @@
     {"id":{"name":"DropBear","path":"sprites/DropBear/DropBear.yy",},},
     {"id":{"name":"DropBearTemp_2","path":"sprites/DropBearTemp_2/DropBearTemp_2.yy",},},
     {"id":{"name":"DropBearTemp","path":"sprites/DropBearTemp/DropBearTemp.yy",},},
+    {"id":{"name":"DvilEmote","path":"sprites/DvilEmote/DvilEmote.yy",},},
     {"id":{"name":"EggBomb","path":"sprites/EggBomb/EggBomb.yy",},},
     {"id":{"name":"Eggform","path":"sprites/Eggform/Eggform.yy",},},
     {"id":{"name":"EggShield","path":"sprites/EggShield/EggShield.yy",},},
