@@ -123,6 +123,7 @@
     {"id":{"name":"sLaserDoll","path":"sprites/sLaserDoll/sLaserDoll.yy",},},
     {"id":{"name":"sLobbySprites","path":"sprites/sLobbySprites/sLobbySprites.yy",},},
     {"id":{"name":"SmartMouse","path":"sprites/SmartMouse/SmartMouse.yy",},},
+    {"id":{"name":"SmartMousePause","path":"sprites/SmartMousePause/SmartMousePause.yy",},},
     {"id":{"name":"SneakerSallyBack","path":"sprites/SneakerSallyBack/SneakerSallyBack.yy",},},
     {"id":{"name":"SneakerSallyBack2","path":"sprites/SneakerSallyBack2/SneakerSallyBack2.yy",},},
     {"id":{"name":"SneakerSallyFront","path":"sprites/SneakerSallyFront/SneakerSallyFront.yy",},},
