@@ -26,6 +26,8 @@
     {"id":{"name":"BlackDragonHole_1","path":"sprites/BlackDragonHole_1/BlackDragonHole_1.yy",},},
     {"id":{"name":"BlackDragonHole","path":"sprites/BlackDragonHole/BlackDragonHole.yy",},},
     {"id":{"name":"Blacksmith","path":"sprites/Blacksmith/Blacksmith.yy",},},
+    {"id":{"name":"BloodMage","path":"sprites/BloodMage/BloodMage.yy",},},
+    {"id":{"name":"BloodMageWard","path":"sprites/BloodMageWard/BloodMageWard.yy",},},
     {"id":{"name":"BobBurgerBack","path":"sprites/BobBurgerBack/BobBurgerBack.yy",},},
     {"id":{"name":"BobBurgerFront","path":"sprites/BobBurgerFront/BobBurgerFront.yy",},},
     {"id":{"name":"BobBurgerSide","path":"sprites/BobBurgerSide/BobBurgerSide.yy",},},
