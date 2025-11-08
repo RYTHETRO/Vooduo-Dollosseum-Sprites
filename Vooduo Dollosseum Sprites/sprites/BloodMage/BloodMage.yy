@@ -3,7 +3,7 @@
   "%Name":"BloodMage",
   "bboxMode":0,
   "bbox_bottom":190,
-  "bbox_left":34,
+  "bbox_left":30,
   "bbox_right":178,
   "bbox_top":2,
   "collisionKind":1,
@@ -15,6 +15,8 @@
     {"$GMSpriteFrame":"","%Name":"978f529f-5abf-4698-ad1c-255838287911","name":"978f529f-5abf-4698-ad1c-255838287911","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"","%Name":"464caf07-0071-49a5-a11b-e5e583e7edb6","name":"464caf07-0071-49a5-a11b-e5e583e7edb6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"","%Name":"ba721121-a30e-4df1-aac9-b950e7f97874","name":"ba721121-a30e-4df1-aac9-b950e7f97874","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"c9b2690f-cf7f-4a9d-b3ba-7ba4b0fae636","name":"c9b2690f-cf7f-4a9d-b3ba-7ba4b0fae636","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"aceb4554-e131-4386-9a11-a04c968bbb46","name":"aceb4554-e131-4386-9a11-a04c968bbb46","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -55,7 +57,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":3.0,
+    "length":5.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -85,6 +87,12 @@
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ba721121-a30e-4df1-aac9-b950e7f97874","path":"sprites/BloodMage/BloodMage.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"66b2d0e3-3af6-41c2-ba50-c8b0c3542404","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c9b2690f-cf7f-4a9d-b3ba-7ba4b0fae636","path":"sprites/BloodMage/BloodMage.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"a79877c8-8624-4b4f-aff8-f2533361c9d8","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"aceb4554-e131-4386-9a11-a04c968bbb46","path":"sprites/BloodMage/BloodMage.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"c9eacade-3289-4f16-81b1-5ceb7aaffdcf","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
