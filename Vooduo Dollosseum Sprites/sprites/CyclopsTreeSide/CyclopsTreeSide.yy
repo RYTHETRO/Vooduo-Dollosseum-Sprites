@@ -5,7 +5,7 @@
   "bbox_bottom":315,
   "bbox_left":2,
   "bbox_right":354,
-  "bbox_top":19,
+  "bbox_top":20,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
@@ -30,6 +30,7 @@
   "height":360,
   "HTile":false,
   "layers":[
+    {"$GMImageLayer":"","%Name":"7b361a5a-8122-4af2-b49b-82321c49a34d","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"7b361a5a-8122-4af2-b49b-82321c49a34d","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"cc926572-38e1-41c8-a024-f5b9c32176dd","blendMode":0,"displayName":"default","isLocked":false,"name":"cc926572-38e1-41c8-a024-f5b9c32176dd","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"CyclopsTreeSide",
