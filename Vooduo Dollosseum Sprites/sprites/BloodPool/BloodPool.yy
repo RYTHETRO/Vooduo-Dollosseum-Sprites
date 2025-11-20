@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"BloodPool",
   "bboxMode":0,
   "bbox_bottom":102,
@@ -12,15 +12,15 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"0ee598c8-f36c-43c7-b744-f81777f50a2a","name":"0ee598c8-f36c-43c7-b744-f81777f50a2a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"4a337498-d520-4807-8cfa-c036afa0c0c5","name":"4a337498-d520-4807-8cfa-c036afa0c0c5","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"96718b22-57dc-4dd3-b48f-9dca78907804","name":"96718b22-57dc-4dd3-b48f-9dca78907804","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"1a97a6ac-d421-412c-a2a1-8e7eb90fe0fb","name":"1a97a6ac-d421-412c-a2a1-8e7eb90fe0fb","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"5ca1fb3f-92ba-4fe9-bfae-f6219805b42e","name":"5ca1fb3f-92ba-4fe9-bfae-f6219805b42e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"a3552cbc-1daf-4a24-b91e-83ce67cfc8aa","name":"a3552cbc-1daf-4a24-b91e-83ce67cfc8aa","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"5b9be319-9da0-4af2-aadd-99f613db4c24","name":"5b9be319-9da0-4af2-aadd-99f613db4c24","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"baa2c994-ff7d-4175-a889-01b217c8a041","name":"baa2c994-ff7d-4175-a889-01b217c8a041","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"0997abcb-fc9f-48a3-bb6f-e558db558ace","name":"0997abcb-fc9f-48a3-bb6f-e558db558ace","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"0ee598c8-f36c-43c7-b744-f81777f50a2a","name":"0ee598c8-f36c-43c7-b744-f81777f50a2a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"4a337498-d520-4807-8cfa-c036afa0c0c5","name":"4a337498-d520-4807-8cfa-c036afa0c0c5","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"96718b22-57dc-4dd3-b48f-9dca78907804","name":"96718b22-57dc-4dd3-b48f-9dca78907804","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"1a97a6ac-d421-412c-a2a1-8e7eb90fe0fb","name":"1a97a6ac-d421-412c-a2a1-8e7eb90fe0fb","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"5ca1fb3f-92ba-4fe9-bfae-f6219805b42e","name":"5ca1fb3f-92ba-4fe9-bfae-f6219805b42e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"a3552cbc-1daf-4a24-b91e-83ce67cfc8aa","name":"a3552cbc-1daf-4a24-b91e-83ce67cfc8aa","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"5b9be319-9da0-4af2-aadd-99f613db4c24","name":"5b9be319-9da0-4af2-aadd-99f613db4c24","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"baa2c994-ff7d-4175-a889-01b217c8a041","name":"baa2c994-ff7d-4175-a889-01b217c8a041","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"0997abcb-fc9f-48a3-bb6f-e558db558ace","name":"0997abcb-fc9f-48a3-bb6f-e558db558ace","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -78,33 +78,15 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0ee598c8-f36c-43c7-b744-f81777f50a2a","path":"sprites/BloodPool/BloodPool.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"ba4d8f79-7438-48c0-bd7f-3cd4ac0b2766","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4a337498-d520-4807-8cfa-c036afa0c0c5","path":"sprites/BloodPool/BloodPool.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"597ddfba-51c1-4e0f-86d7-24e30ca8397f","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"96718b22-57dc-4dd3-b48f-9dca78907804","path":"sprites/BloodPool/BloodPool.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"ae59fbdf-a0a7-4e89-b7c6-ff353c4c09b6","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1a97a6ac-d421-412c-a2a1-8e7eb90fe0fb","path":"sprites/BloodPool/BloodPool.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"6569619b-22a4-4994-90e4-b416b3b8fa9c","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5ca1fb3f-92ba-4fe9-bfae-f6219805b42e","path":"sprites/BloodPool/BloodPool.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"fd9c8b61-3fe4-465e-bf34-bbccdfda101a","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a3552cbc-1daf-4a24-b91e-83ce67cfc8aa","path":"sprites/BloodPool/BloodPool.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"529d5e01-bfee-461e-86ed-bfa4ef50a585","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5b9be319-9da0-4af2-aadd-99f613db4c24","path":"sprites/BloodPool/BloodPool.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"5b2796f8-59d2-4866-bd53-7b10391c8d49","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"baa2c994-ff7d-4175-a889-01b217c8a041","path":"sprites/BloodPool/BloodPool.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"41648dde-7d00-4538-aa1d-3021e4c373bc","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0997abcb-fc9f-48a3-bb6f-e558db558ace","path":"sprites/BloodPool/BloodPool.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"d037f6e9-58c1-4d33-a811-49935c43ab06","IsCreationKey":false,"Key":8.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"0ee598c8-f36c-43c7-b744-f81777f50a2a","path":"sprites/BloodPool/BloodPool.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"ba4d8f79-7438-48c0-bd7f-3cd4ac0b2766","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"4a337498-d520-4807-8cfa-c036afa0c0c5","path":"sprites/BloodPool/BloodPool.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"597ddfba-51c1-4e0f-86d7-24e30ca8397f","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"96718b22-57dc-4dd3-b48f-9dca78907804","path":"sprites/BloodPool/BloodPool.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"ae59fbdf-a0a7-4e89-b7c6-ff353c4c09b6","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"1a97a6ac-d421-412c-a2a1-8e7eb90fe0fb","path":"sprites/BloodPool/BloodPool.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"6569619b-22a4-4994-90e4-b416b3b8fa9c","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"5ca1fb3f-92ba-4fe9-bfae-f6219805b42e","path":"sprites/BloodPool/BloodPool.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"fd9c8b61-3fe4-465e-bf34-bbccdfda101a","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"a3552cbc-1daf-4a24-b91e-83ce67cfc8aa","path":"sprites/BloodPool/BloodPool.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"529d5e01-bfee-461e-86ed-bfa4ef50a585","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"5b9be319-9da0-4af2-aadd-99f613db4c24","path":"sprites/BloodPool/BloodPool.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"5b2796f8-59d2-4866-bd53-7b10391c8d49","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"baa2c994-ff7d-4175-a889-01b217c8a041","path":"sprites/BloodPool/BloodPool.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"41648dde-7d00-4538-aa1d-3021e4c373bc","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"0997abcb-fc9f-48a3-bb6f-e558db558ace","path":"sprites/BloodPool/BloodPool.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"d037f6e9-58c1-4d33-a811-49935c43ab06","IsCreationKey":false,"Key":8.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

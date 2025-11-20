@@ -2,7 +2,7 @@
   "$GMProject":"v1",
   "%Name":"Vooduo Dollosseum Sprites",
   "AudioGroups":[
-    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
   "configs":{
     "children":[],
@@ -15,7 +15,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.13.1.193",
+    "IDEVersion":"2024.14.1.210",
   },
   "name":"Vooduo Dollosseum Sprites",
   "resources":[
@@ -53,6 +53,7 @@
     {"id":{"name":"CyclopsTreeFrontGrab","path":"sprites/CyclopsTreeFrontGrab/CyclopsTreeFrontGrab.yy",},},
     {"id":{"name":"CyclopsTreeSide","path":"sprites/CyclopsTreeSide/CyclopsTreeSide.yy",},},
     {"id":{"name":"CyclopsTreeSideGrab","path":"sprites/CyclopsTreeSideGrab/CyclopsTreeSideGrab.yy",},},
+    {"id":{"name":"CyclopsTreeSplash","path":"sprites/CyclopsTreeSplash/CyclopsTreeSplash.yy",},},
     {"id":{"name":"DangBobbing","path":"sprites/DangBobbing/DangBobbing.yy",},},
     {"id":{"name":"DangEmote","path":"sprites/DangEmote/DangEmote.yy",},},
     {"id":{"name":"DangIdle","path":"sprites/DangIdle/DangIdle.yy",},},
@@ -149,7 +150,9 @@
     {"id":{"name":"SneakerSallySide","path":"sprites/SneakerSallySide/SneakerSallySide.yy",},},
     {"id":{"name":"SneakerSallySide2","path":"sprites/SneakerSallySide2/SneakerSallySide2.yy",},},
     {"id":{"name":"sNinjaDollSplash","path":"sprites/sNinjaDollSplash/sNinjaDollSplash.yy",},},
+    {"id":{"name":"SpikeGun","path":"sprites/SpikeGun/SpikeGun.yy",},},
     {"id":{"name":"sPointerTemplate","path":"sprites/sPointerTemplate/sPointerTemplate.yy",},},
+    {"id":{"name":"Sprite159","path":"sprites/Sprite159/Sprite159.yy",},},
     {"id":{"name":"Sprite88","path":"sprites/Sprite88/Sprite88.yy",},},
     {"id":{"name":"sSummonDoll","path":"sprites/sSummonDoll/sSummonDoll.yy",},},
     {"id":{"name":"sWallDoll","path":"sprites/sWallDoll/sWallDoll.yy",},},

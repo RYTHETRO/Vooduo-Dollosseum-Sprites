@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"BrionyPlantsHitEffect",
   "bboxMode":0,
   "bbox_bottom":109,
@@ -12,9 +12,9 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"8a33ffe7-70c6-493f-9b34-5c5d998b21e2","name":"8a33ffe7-70c6-493f-9b34-5c5d998b21e2","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"42def43a-a896-436c-a960-e35f819c6b27","name":"42def43a-a896-436c-a960-e35f819c6b27","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"08ccb1d9-51be-420c-b6e3-d7e9a2b4d5f9","name":"08ccb1d9-51be-420c-b6e3-d7e9a2b4d5f9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"8a33ffe7-70c6-493f-9b34-5c5d998b21e2","name":"8a33ffe7-70c6-493f-9b34-5c5d998b21e2","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"42def43a-a896-436c-a960-e35f819c6b27","name":"42def43a-a896-436c-a960-e35f819c6b27","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"08ccb1d9-51be-420c-b6e3-d7e9a2b4d5f9","name":"08ccb1d9-51be-420c-b6e3-d7e9a2b4d5f9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -72,15 +72,9 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8a33ffe7-70c6-493f-9b34-5c5d998b21e2","path":"sprites/BrionyPlantsHitEffect/BrionyPlantsHitEffect.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"51f570ac-aea5-4a39-88d8-6369790e3e36","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"42def43a-a896-436c-a960-e35f819c6b27","path":"sprites/BrionyPlantsHitEffect/BrionyPlantsHitEffect.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"6d6b80c6-0f6b-437a-836c-4454ac5660b1","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"08ccb1d9-51be-420c-b6e3-d7e9a2b4d5f9","path":"sprites/BrionyPlantsHitEffect/BrionyPlantsHitEffect.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"a591e2b2-92e2-448e-a594-8f96bbeb844b","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"8a33ffe7-70c6-493f-9b34-5c5d998b21e2","path":"sprites/BrionyPlantsHitEffect/BrionyPlantsHitEffect.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"51f570ac-aea5-4a39-88d8-6369790e3e36","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"42def43a-a896-436c-a960-e35f819c6b27","path":"sprites/BrionyPlantsHitEffect/BrionyPlantsHitEffect.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"6d6b80c6-0f6b-437a-836c-4454ac5660b1","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"08ccb1d9-51be-420c-b6e3-d7e9a2b4d5f9","path":"sprites/BrionyPlantsHitEffect/BrionyPlantsHitEffect.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"a591e2b2-92e2-448e-a594-8f96bbeb844b","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
