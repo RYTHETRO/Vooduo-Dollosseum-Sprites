@@ -1,11 +1,11 @@
 {
   "$GMSprite":"v2",
-  "%Name":"SpikeGun",
+  "%Name":"GooperStick",
   "bboxMode":0,
-  "bbox_bottom":106,
-  "bbox_left":0,
-  "bbox_right":387,
-  "bbox_top":0,
+  "bbox_bottom":98,
+  "bbox_left":30,
+  "bbox_right":306,
+  "bbox_top":17,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
@@ -13,17 +13,17 @@
   "For3D":false,
   "frames":[
     {"$GMSpriteFrame":"v1","%Name":"c326b238-ecfa-44ae-a9a6-ac26e6a94044","name":"c326b238-ecfa-44ae-a9a6-ac26e6a94044","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"v1","%Name":"d4a61c9f-15b4-4e59-b99a-bcda69a50f40","name":"d4a61c9f-15b4-4e59-b99a-bcda69a50f40","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":107,
+  "height":121,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"67d93b1c-0f02-40df-9541-18a9c86f56d1","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"67d93b1c-0f02-40df-9541-18a9c86f56d1","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"7ae3e4cf-2557-4389-98bf-4af1c3ea791c","blendMode":0,"displayName":"Layer 2","isLocked":false,"name":"7ae3e4cf-2557-4389-98bf-4af1c3ea791c","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"91a9bc60-c405-43b6-bdc1-7d68abb99271","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"91a9bc60-c405-43b6-bdc1-7d68abb99271","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"aab96cdc-4df8-49f8-8932-1c57cc7e38bf","blendMode":0,"displayName":"default","isLocked":false,"name":"aab96cdc-4df8-49f8-8932-1c57cc7e38bf","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":false,},
   ],
-  "name":"SpikeGun",
+  "name":"GooperStick",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -35,7 +35,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"SpikeGun",
+    "%Name":"GooperStick",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -51,7 +51,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":2.0,
+    "length":1.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -59,7 +59,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"SpikeGun",
+    "name":"GooperStick",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -73,11 +73,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c326b238-ecfa-44ae-a9a6-ac26e6a94044","path":"sprites/SpikeGun/SpikeGun.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c326b238-ecfa-44ae-a9a6-ac26e6a94044","path":"sprites/GooperStick/GooperStick.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"d8bafd4f-71a2-4ab8-8e5b-79c87ceed102","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d4a61c9f-15b4-4e59-b99a-bcda69a50f40","path":"sprites/SpikeGun/SpikeGun.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"0d84bb4f-52e1-4387-be96-284b7f50d35e","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -93,5 +90,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":388,
+  "width":307,
 }

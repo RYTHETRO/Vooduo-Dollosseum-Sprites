@@ -2,9 +2,9 @@
   "$GMSprite":"v2",
   "%Name":"ClawdiaEmote",
   "bboxMode":0,
-  "bbox_bottom":1698,
+  "bbox_bottom":1801,
   "bbox_left":0,
-  "bbox_right":1170,
+  "bbox_right":914,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"19a471d3-4b73-402d-a93c-2331f74235ea","name":"19a471d3-4b73-402d-a93c-2331f74235ea","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"19574ce8-7cb3-48e0-a62c-9a1cb35f068d","name":"19574ce8-7cb3-48e0-a62c-9a1cb35f068d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":1699,
+  "height":1802,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"1c5120e7-d4e2-4edb-b021-2a7c3262e803","blendMode":0,"displayName":"default","isLocked":false,"name":"1c5120e7-d4e2-4edb-b021-2a7c3262e803","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"01be82c7-9da7-4506-835f-b92331e2a1c6","blendMode":0,"displayName":"default","isLocked":false,"name":"01be82c7-9da7-4506-835f-b92331e2a1c6","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"ClawdiaEmote",
   "nineSlice":null,
@@ -70,7 +70,9 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"19a471d3-4b73-402d-a93c-2331f74235ea","path":"sprites/ClawdiaEmote/ClawdiaEmote.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"fb428bbb-f0da-4ab3-90e4-c5ff34c07730","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"19574ce8-7cb3-48e0-a62c-9a1cb35f068d","path":"sprites/ClawdiaEmote/ClawdiaEmote.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"7ed2ab53-7e2c-4caa-890a-f2ed0462ea83","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +88,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":1171,
+  "width":915,
 }
