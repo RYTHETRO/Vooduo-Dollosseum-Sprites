@@ -2,7 +2,7 @@
   "$GMSprite":"v2",
   "%Name":"KateyEmote",
   "bboxMode":0,
-  "bbox_bottom":1958,
+  "bbox_bottom":1961,
   "bbox_left":0,
   "bbox_right":956,
   "bbox_top":0,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"881b8de9-0270-419f-aed8-84443b449f8c","name":"881b8de9-0270-419f-aed8-84443b449f8c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"74da02cc-c17b-4aab-a3e3-2715528e71b6","name":"74da02cc-c17b-4aab-a3e3-2715528e71b6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":1959,
+  "height":1962,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"5db5e20a-88fc-4e1a-b4cb-fc033960c32e","blendMode":0,"displayName":"default","isLocked":false,"name":"5db5e20a-88fc-4e1a-b4cb-fc033960c32e","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"bcc62f73-ba3e-40ad-b409-a5d3139ce6c7","blendMode":0,"displayName":"default","isLocked":false,"name":"bcc62f73-ba3e-40ad-b409-a5d3139ce6c7","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"KateyEmote",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"881b8de9-0270-419f-aed8-84443b449f8c","path":"sprites/KateyEmote/KateyEmote.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"c7923a7e-ef28-4869-835a-5c323cf33e65","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"74da02cc-c17b-4aab-a3e3-2715528e71b6","path":"sprites/KateyEmote/KateyEmote.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"233f586f-5295-40b1-af22-fe4054525cac","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
