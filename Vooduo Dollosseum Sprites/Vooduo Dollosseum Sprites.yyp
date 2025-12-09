@@ -21,6 +21,7 @@
   "resources":[
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"BearoarEmote","path":"sprites/BearoarEmote/BearoarEmote.yy",},},
     {"id":{"name":"BlackDragonExit_1","path":"sprites/BlackDragonExit_1/BlackDragonExit_1.yy",},},
     {"id":{"name":"BlackDragonExit","path":"sprites/BlackDragonExit/BlackDragonExit.yy",},},
     {"id":{"name":"BlackDragonHole_1","path":"sprites/BlackDragonHole_1/BlackDragonHole_1.yy",},},
@@ -35,6 +36,7 @@
     {"id":{"name":"BobBurgerBack","path":"sprites/BobBurgerBack/BobBurgerBack.yy",},},
     {"id":{"name":"BobBurgerFront","path":"sprites/BobBurgerFront/BobBurgerFront.yy",},},
     {"id":{"name":"BobBurgerSide","path":"sprites/BobBurgerSide/BobBurgerSide.yy",},},
+    {"id":{"name":"BobEmote","path":"sprites/BobEmote/BobEmote.yy",},},
     {"id":{"name":"BrionyEmote","path":"sprites/BrionyEmote/BrionyEmote.yy",},},
     {"id":{"name":"BrionyIdle","path":"sprites/BrionyIdle/BrionyIdle.yy",},},
     {"id":{"name":"BrionyPlantsHitEffect","path":"sprites/BrionyPlantsHitEffect/BrionyPlantsHitEffect.yy",},},
@@ -72,6 +74,7 @@
     {"id":{"name":"Fearror","path":"sprites/Fearror/Fearror.yy",},},
     {"id":{"name":"FearrorBob","path":"sprites/FearrorBob/FearrorBob.yy",},},
     {"id":{"name":"FearrorFlash","path":"sprites/FearrorFlash/FearrorFlash.yy",},},
+    {"id":{"name":"FredEmote","path":"sprites/FredEmote/FredEmote.yy",},},
     {"id":{"name":"GolemboEmote","path":"sprites/GolemboEmote/GolemboEmote.yy",},},
     {"id":{"name":"GolemiaSplash","path":"sprites/GolemiaSplash/GolemiaSplash.yy",},},
     {"id":{"name":"GolgatharSplash","path":"sprites/GolgatharSplash/GolgatharSplash.yy",},},
