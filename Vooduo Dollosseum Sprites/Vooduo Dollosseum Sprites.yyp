@@ -175,6 +175,7 @@
     {"id":{"name":"TutorialSpeechBubble","path":"sprites/TutorialSpeechBubble/TutorialSpeechBubble.yy",},},
     {"id":{"name":"VenEmote","path":"sprites/VenEmote/VenEmote.yy",},},
     {"id":{"name":"VenIdle","path":"sprites/VenIdle/VenIdle.yy",},},
+    {"id":{"name":"VenomagDeath","path":"sprites/VenomagDeath/VenomagDeath.yy",},},
     {"id":{"name":"VFTTrap","path":"sprites/VFTTrap/VFTTrap.yy",},},
     {"id":{"name":"VFTTrapGrow","path":"sprites/VFTTrapGrow/VFTTrapGrow.yy",},},
     {"id":{"name":"VFTTrapIdle","path":"sprites/VFTTrapIdle/VFTTrapIdle.yy",},},
