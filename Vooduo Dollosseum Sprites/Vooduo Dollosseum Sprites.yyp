@@ -117,6 +117,7 @@
     {"id":{"name":"kateyIdle","path":"sprites/kateyIdle/kateyIdle.yy",},},
     {"id":{"name":"KateyStoryEmote","path":"sprites/KateyStoryEmote/KateyStoryEmote.yy",},},
     {"id":{"name":"KenneratorEmote","path":"sprites/KenneratorEmote/KenneratorEmote.yy",},},
+    {"id":{"name":"KenneratorIdle","path":"sprites/KenneratorIdle/KenneratorIdle.yy",},},
     {"id":{"name":"KrusherSplash","path":"sprites/KrusherSplash/KrusherSplash.yy",},},
     {"id":{"name":"KulnitaEmote","path":"sprites/KulnitaEmote/KulnitaEmote.yy",},},
     {"id":{"name":"LightEmote","path":"sprites/LightEmote/LightEmote.yy",},},
