@@ -158,6 +158,7 @@
     {"id":{"name":"sChainDoll","path":"sprites/sChainDoll/sChainDoll.yy",},},
     {"id":{"name":"sComputerDoll","path":"sprites/sComputerDoll/sComputerDoll.yy",},},
     {"id":{"name":"sCountDown","path":"sprites/sCountDown/sCountDown.yy",},},
+    {"id":{"name":"sCountDownClown","path":"sprites/sCountDownClown/sCountDownClown.yy",},},
     {"id":{"name":"sDollTemplate","path":"sprites/sDollTemplate/sDollTemplate.yy",},},
     {"id":{"name":"sEvineDoll","path":"sprites/sEvineDoll/sEvineDoll.yy",},},
     {"id":{"name":"sGravidoll","path":"sprites/sGravidoll/sGravidoll.yy",},},
