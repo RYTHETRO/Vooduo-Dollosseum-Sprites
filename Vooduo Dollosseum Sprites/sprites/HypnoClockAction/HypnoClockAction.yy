@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"af41d0b8-0104-4a10-8913-6bf28b25e970","name":"af41d0b8-0104-4a10-8913-6bf28b25e970","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"8ac36eb7-a132-462b-afeb-e77f0e7afb10","name":"8ac36eb7-a132-462b-afeb-e77f0e7afb10","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"v1","%Name":"30c83b0d-3c7f-4dd0-bb46-1f9412e3435d","name":"30c83b0d-3c7f-4dd0-bb46-1f9412e3435d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"v1","%Name":"d84ea219-0696-4220-a415-3aeab06a5f9d","name":"d84ea219-0696-4220-a415-3aeab06a5f9d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"v1","%Name":"662551ea-9f89-47cc-97d5-900afb343d21","name":"662551ea-9f89-47cc-97d5-900afb343d21","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
@@ -76,8 +76,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"af41d0b8-0104-4a10-8913-6bf28b25e970","path":"sprites/HypnoClockAction/HypnoClockAction.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"7ef5ed31-b80a-4f45-b833-300b532dc7de","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8ac36eb7-a132-462b-afeb-e77f0e7afb10","path":"sprites/HypnoClockAction/HypnoClockAction.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"352ae1b4-2bf4-473a-8061-21cb9010fec8","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"30c83b0d-3c7f-4dd0-bb46-1f9412e3435d","path":"sprites/HypnoClockAction/HypnoClockAction.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"42134afd-22f0-4d4a-9089-f5c896f17a5c","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},

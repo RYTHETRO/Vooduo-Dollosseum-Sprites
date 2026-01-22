@@ -70,6 +70,8 @@
     {"id":{"name":"DropBear","path":"sprites/DropBear/DropBear.yy",},},
     {"id":{"name":"DropBearTemp_2","path":"sprites/DropBearTemp_2/DropBearTemp_2.yy",},},
     {"id":{"name":"DropBearTemp","path":"sprites/DropBearTemp/DropBearTemp.yy",},},
+    {"id":{"name":"DuckMonster","path":"sprites/DuckMonster/DuckMonster.yy",},},
+    {"id":{"name":"DuckMonsterFly","path":"sprites/DuckMonsterFly/DuckMonsterFly.yy",},},
     {"id":{"name":"DvilEmote","path":"sprites/DvilEmote/DvilEmote.yy",},},
     {"id":{"name":"DvilIdle","path":"sprites/DvilIdle/DvilIdle.yy",},},
     {"id":{"name":"DvilIdleCheer","path":"sprites/DvilIdleCheer/DvilIdleCheer.yy",},},
