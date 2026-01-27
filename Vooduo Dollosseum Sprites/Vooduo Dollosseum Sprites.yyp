@@ -24,6 +24,8 @@
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"AkeldamaEmote","path":"sprites/AkeldamaEmote/AkeldamaEmote.yy",},},
+    {"id":{"name":"Azeria","path":"sprites/Azeria/Azeria.yy",},},
+    {"id":{"name":"Azeriatemp","path":"sprites/Azeriatemp/Azeriatemp.yy",},},
     {"id":{"name":"BearoarEmote","path":"sprites/BearoarEmote/BearoarEmote.yy",},},
     {"id":{"name":"BearyEmote","path":"sprites/BearyEmote/BearyEmote.yy",},},
     {"id":{"name":"BlackDragonExit_1","path":"sprites/BlackDragonExit_1/BlackDragonExit_1.yy",},},

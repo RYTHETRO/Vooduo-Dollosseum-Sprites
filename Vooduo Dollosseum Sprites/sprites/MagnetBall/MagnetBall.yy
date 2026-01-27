@@ -24,9 +24,7 @@
   "height":200,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"bcfbc59c-0f48-4372-972d-aa0c3da443bc","blendMode":0,"displayName":"Layer 2","isLocked":false,"name":"bcfbc59c-0f48-4372-972d-aa0c3da443bc","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
-    {"$GMImageLayer":"","%Name":"2b3a1760-df1c-4a06-b4a5-2d0fb4c17b9e","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"2b3a1760-df1c-4a06-b4a5-2d0fb4c17b9e","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
-    {"$GMImageLayer":"","%Name":"faedefd4-173f-4bf5-acef-c07319e909bb","blendMode":0,"displayName":"default","isLocked":false,"name":"faedefd4-173f-4bf5-acef-c07319e909bb","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"ecb63886-4986-40b2-b372-cdf62237b641","blendMode":0,"displayName":"default","isLocked":false,"name":"ecb63886-4986-40b2-b372-cdf62237b641","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"MagnetBall",
   "nineSlice":null,
