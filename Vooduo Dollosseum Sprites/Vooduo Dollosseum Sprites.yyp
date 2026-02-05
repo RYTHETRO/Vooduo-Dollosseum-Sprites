@@ -131,6 +131,7 @@
     {"id":{"name":"Lampee","path":"sprites/Lampee/Lampee.yy",},},
     {"id":{"name":"Lampeeback","path":"sprites/Lampeeback/Lampeeback.yy",},},
     {"id":{"name":"Lampeefront","path":"sprites/Lampeefront/Lampeefront.yy",},},
+    {"id":{"name":"LampeeSplash","path":"sprites/LampeeSplash/LampeeSplash.yy",},},
     {"id":{"name":"LightEmote","path":"sprites/LightEmote/LightEmote.yy",},},
     {"id":{"name":"LightWings","path":"sprites/LightWings/LightWings.yy",},},
     {"id":{"name":"MagnetBall","path":"sprites/MagnetBall/MagnetBall.yy",},},
