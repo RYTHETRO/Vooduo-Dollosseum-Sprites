@@ -57,6 +57,8 @@
     {"id":{"name":"CarrotIdle","path":"sprites/CarrotIdle/CarrotIdle.yy",},},
     {"id":{"name":"ChestreSplash","path":"sprites/ChestreSplash/ChestreSplash.yy",},},
     {"id":{"name":"ClawdiaEmote","path":"sprites/ClawdiaEmote/ClawdiaEmote.yy",},},
+    {"id":{"name":"cooldown","path":"sprites/cooldown/cooldown.yy",},},
+    {"id":{"name":"CragnetHitEffect","path":"sprites/CragnetHitEffect/CragnetHitEffect.yy",},},
     {"id":{"name":"CragnetSplash","path":"sprites/CragnetSplash/CragnetSplash.yy",},},
     {"id":{"name":"CyclopsTree","path":"sprites/CyclopsTree/CyclopsTree.yy",},},
     {"id":{"name":"CyclopsTreeBack","path":"sprites/CyclopsTreeBack/CyclopsTreeBack.yy",},},
