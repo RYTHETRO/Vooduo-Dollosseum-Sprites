@@ -88,6 +88,7 @@
     {"id":{"name":"Fearror","path":"sprites/Fearror/Fearror.yy",},},
     {"id":{"name":"FearrorBob","path":"sprites/FearrorBob/FearrorBob.yy",},},
     {"id":{"name":"FearrorFlash","path":"sprites/FearrorFlash/FearrorFlash.yy",},},
+    {"id":{"name":"FearrorSplash","path":"sprites/FearrorSplash/FearrorSplash.yy",},},
     {"id":{"name":"FredEmote","path":"sprites/FredEmote/FredEmote.yy",},},
     {"id":{"name":"GolemboEmote","path":"sprites/GolemboEmote/GolemboEmote.yy",},},
     {"id":{"name":"GolemboIdle","path":"sprites/GolemboIdle/GolemboIdle.yy",},},
