@@ -137,6 +137,7 @@
     {"id":{"name":"LightWings","path":"sprites/LightWings/LightWings.yy",},},
     {"id":{"name":"MagnetBall","path":"sprites/MagnetBall/MagnetBall.yy",},},
     {"id":{"name":"MagnetBallEffect","path":"sprites/MagnetBallEffect/MagnetBallEffect.yy",},},
+    {"id":{"name":"MagnetBallSplash","path":"sprites/MagnetBallSplash/MagnetBallSplash.yy",},},
     {"id":{"name":"MelissaIdle","path":"sprites/MelissaIdle/MelissaIdle.yy",},},
     {"id":{"name":"MonsterName","path":"sprites/MonsterName/MonsterName.yy",},},
     {"id":{"name":"Names3","path":"sprites/Names3/Names3.yy",},},
