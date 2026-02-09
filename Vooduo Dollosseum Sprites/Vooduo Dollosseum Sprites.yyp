@@ -34,6 +34,7 @@
     {"id":{"name":"BlackDragonHole_1","path":"sprites/BlackDragonHole_1/BlackDragonHole_1.yy",},},
     {"id":{"name":"BlackDragonHole","path":"sprites/BlackDragonHole/BlackDragonHole.yy",},},
     {"id":{"name":"Blacksmith","path":"sprites/Blacksmith/Blacksmith.yy",},},
+    {"id":{"name":"BlackSmithSplash","path":"sprites/BlackSmithSplash/BlackSmithSplash.yy",},},
     {"id":{"name":"BloodMage","path":"sprites/BloodMage/BloodMage.yy",},},
     {"id":{"name":"BloodMageWard","path":"sprites/BloodMageWard/BloodMageWard.yy",},},
     {"id":{"name":"BloodPool","path":"sprites/BloodPool/BloodPool.yy",},},
