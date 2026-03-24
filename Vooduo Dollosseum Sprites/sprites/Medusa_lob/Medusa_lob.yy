@@ -1,6 +1,6 @@
 {
   "$GMSprite":"v2",
-  "%Name":"Medusa_temp",
+  "%Name":"Medusa_lob",
   "bboxMode":0,
   "bbox_bottom":149,
   "bbox_left":109,
@@ -22,14 +22,9 @@
   "height":200,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"6cfe37c0-e244-486e-930a-9224292ffe1a","blendMode":0,"displayName":"Layer 4","isLocked":false,"name":"6cfe37c0-e244-486e-930a-9224292ffe1a","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":false,},
-    {"$GMImageLayer":"","%Name":"d76a5215-85e7-4abc-8e23-5863c52241f3","blendMode":0,"displayName":"Layer 2","isLocked":false,"name":"d76a5215-85e7-4abc-8e23-5863c52241f3","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
-    {"$GMImageLayer":"","%Name":"1fe82cf4-dec8-4d36-8630-af2c2fb17870","blendMode":0,"displayName":"ball","isLocked":false,"name":"1fe82cf4-dec8-4d36-8630-af2c2fb17870","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
-    {"$GMImageLayer":"","%Name":"afd2d6a7-2909-4ee3-ac1a-ab3cd8406fea","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"afd2d6a7-2909-4ee3-ac1a-ab3cd8406fea","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
-    {"$GMImageLayer":"","%Name":"bbcfd5b1-a2fa-4277-990f-25aa82ceefd1","blendMode":0,"displayName":"default","isLocked":false,"name":"bbcfd5b1-a2fa-4277-990f-25aa82ceefd1","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
-    {"$GMImageLayer":"","%Name":"953bc61a-3bcb-4305-9537-c2c88ced7c7b","blendMode":0,"displayName":"Layer 3","isLocked":false,"name":"953bc61a-3bcb-4305-9537-c2c88ced7c7b","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"c809221c-2e9e-4d54-9095-86b3abce318f","blendMode":0,"displayName":"Layer 3","isLocked":false,"name":"c809221c-2e9e-4d54-9095-86b3abce318f","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Medusa_temp",
+  "name":"Medusa_lob",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -41,7 +36,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"Medusa_temp",
+    "%Name":"Medusa_lob",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -65,7 +60,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Medusa_temp",
+    "name":"Medusa_lob",
     "playback":1,
     "playbackSpeed":5.0,
     "playbackSpeedType":0,
@@ -77,16 +72,16 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a599f955-0f2f-4e84-840a-684576b359c1","path":"sprites/Medusa_temp/Medusa_temp.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a599f955-0f2f-4e84-840a-684576b359c1","path":"sprites/Medusa_lob/Medusa_lob.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"f04f0de1-036f-4702-a417-30aa13f2504a","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f6836d58-07b9-4419-badb-1e079e4dd2dc","path":"sprites/Medusa_temp/Medusa_temp.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f6836d58-07b9-4419-badb-1e079e4dd2dc","path":"sprites/Medusa_lob/Medusa_lob.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"b34613e0-4548-4d4b-86bb-f617903a0395","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"bf44ec08-a7ac-48e1-ba90-1a9bffcc0c3d","path":"sprites/Medusa_temp/Medusa_temp.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"bf44ec08-a7ac-48e1-ba90-1a9bffcc0c3d","path":"sprites/Medusa_lob/Medusa_lob.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"62cebef5-7b1c-49b5-9719-101413a9c6b9","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b4547358-cde3-4b02-a2dc-9a9cde131313","path":"sprites/Medusa_temp/Medusa_temp.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b4547358-cde3-4b02-a2dc-9a9cde131313","path":"sprites/Medusa_lob/Medusa_lob.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"70f91149-48df-4882-a837-492fba17964c","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
