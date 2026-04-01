@@ -2,9 +2,9 @@
   "$GMSprite":"v2",
   "%Name":"Weapons",
   "bboxMode":0,
-  "bbox_bottom":56,
-  "bbox_left":4,
-  "bbox_right":124,
+  "bbox_bottom":87,
+  "bbox_left":0,
+  "bbox_right":156,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -13,11 +13,11 @@
   "For3D":false,
   "frames":[
     {"$GMSpriteFrame":"v1","%Name":"ac7b7cd6-ef70-4482-be02-70a0403fd8fa","name":"ac7b7cd6-ef70-4482-be02-70a0403fd8fa","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"v1","%Name":"aa6ec6d6-d884-41c1-a73f-433a59339c2d","name":"aa6ec6d6-d884-41c1-a73f-433a59339c2d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"22ec6c26-f8a9-44ff-9233-bd36296ea0ab","name":"22ec6c26-f8a9-44ff-9233-bd36296ea0ab","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":57,
+  "height":88,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"b7aec873-3cfa-41bf-a3bf-3771c1eabb9a","blendMode":0,"displayName":"default","isLocked":false,"name":"b7aec873-3cfa-41bf-a3bf-3771c1eabb9a","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -71,8 +71,12 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"ac7b7cd6-ef70-4482-be02-70a0403fd8fa","path":"sprites/Weapons/Weapons.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"d1156116-b70f-4de5-9ee2-6ca3ed694d15","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"aa6ec6d6-d884-41c1-a73f-433a59339c2d","path":"sprites/Weapons/Weapons.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"b5bb0e03-f2c9-4966-857c-212219330900","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ac7b7cd6-ef70-4482-be02-70a0403fd8fa","path":"sprites/Weapons/Weapons.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"d1156116-b70f-4de5-9ee2-6ca3ed694d15","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"22ec6c26-f8a9-44ff-9233-bd36296ea0ab","path":"sprites/Weapons/Weapons.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"b2c411f1-a625-4bb7-bdc5-fc8800104d6f","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -88,5 +92,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":125,
+  "width":157,
 }
