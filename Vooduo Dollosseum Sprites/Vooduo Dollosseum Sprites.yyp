@@ -79,6 +79,7 @@
     {"id":{"name":"DangEmote","path":"sprites/DangEmote/DangEmote.yy",},},
     {"id":{"name":"DirectionArrow","path":"sprites/DirectionArrow/DirectionArrow.yy",},},
     {"id":{"name":"DollyCoin","path":"sprites/DollyCoin/DollyCoin.yy",},},
+    {"id":{"name":"DragonHitEffect","path":"sprites/DragonHitEffect/DragonHitEffect.yy",},},
     {"id":{"name":"DvilIdle","path":"sprites/DvilIdle/DvilIdle.yy",},},
     {"id":{"name":"DvilIdleCheer","path":"sprites/DvilIdleCheer/DvilIdleCheer.yy",},},
     {"id":{"name":"EggBomb","path":"sprites/EggBomb/EggBomb.yy",},},
