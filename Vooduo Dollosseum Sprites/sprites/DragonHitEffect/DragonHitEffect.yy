@@ -3,8 +3,8 @@
   "%Name":"DragonHitEffect",
   "bboxMode":0,
   "bbox_bottom":170,
-  "bbox_left":35,
-  "bbox_right":199,
+  "bbox_left":0,
+  "bbox_right":164,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -107,5 +107,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":250,
+  "width":165,
 }
