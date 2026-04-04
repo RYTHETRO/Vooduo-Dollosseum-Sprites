@@ -3,8 +3,8 @@
   "%Name":"Weapons",
   "bboxMode":0,
   "bbox_bottom":87,
-  "bbox_left":0,
-  "bbox_right":156,
+  "bbox_left":11,
+  "bbox_right":177,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -20,6 +20,7 @@
   "height":88,
   "HTile":false,
   "layers":[
+    {"$GMImageLayer":"","%Name":"f4165b91-6a8e-4acd-81e6-61a131aa0be9","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"f4165b91-6a8e-4acd-81e6-61a131aa0be9","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"b7aec873-3cfa-41bf-a3bf-3771c1eabb9a","blendMode":0,"displayName":"default","isLocked":false,"name":"b7aec873-3cfa-41bf-a3bf-3771c1eabb9a","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"Weapons",
@@ -92,5 +93,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":157,
+  "width":200,
 }
