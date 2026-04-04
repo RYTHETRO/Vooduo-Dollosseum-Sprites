@@ -91,6 +91,7 @@
     {"id":{"name":"EggShield","path":"sprites/EggShield/EggShield.yy",},},
     {"id":{"name":"EggShieldSplat","path":"sprites/EggShieldSplat/EggShieldSplat.yy",},},
     {"id":{"name":"EvineEmote","path":"sprites/EvineEmote/EvineEmote.yy",},},
+    {"id":{"name":"EvineHitEffect","path":"sprites/EvineHitEffect/EvineHitEffect.yy",},},
     {"id":{"name":"EvineNeedle","path":"sprites/EvineNeedle/EvineNeedle.yy",},},
     {"id":{"name":"EvineSprite","path":"sprites/EvineSprite/EvineSprite.yy",},},
     {"id":{"name":"Fearror","path":"sprites/Fearror/Fearror.yy",},},
