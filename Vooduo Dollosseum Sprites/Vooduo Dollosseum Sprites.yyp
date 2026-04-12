@@ -40,6 +40,7 @@
     {"id":{"name":"BearyEmote","path":"sprites/BearyEmote/BearyEmote.yy",},},
     {"id":{"name":"Blacksmith","path":"sprites/Blacksmith/Blacksmith.yy",},},
     {"id":{"name":"BlackSmithSplash","path":"sprites/BlackSmithSplash/BlackSmithSplash.yy",},},
+    {"id":{"name":"BleedEffect","path":"sprites/BleedEffect/BleedEffect.yy",},},
     {"id":{"name":"BloodMage","path":"sprites/BloodMage/BloodMage.yy",},},
     {"id":{"name":"BloodMageSplash","path":"sprites/BloodMageSplash/BloodMageSplash.yy",},},
     {"id":{"name":"BloodMageWard","path":"sprites/BloodMageWard/BloodMageWard.yy",},},
