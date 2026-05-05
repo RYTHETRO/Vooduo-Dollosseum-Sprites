@@ -3,7 +3,7 @@
   "%Name":"BearBlack_swing",
   "bboxMode":0,
   "bbox_bottom":491,
-  "bbox_left":198,
+  "bbox_left":63,
   "bbox_right":542,
   "bbox_top":172,
   "collisionKind":1,

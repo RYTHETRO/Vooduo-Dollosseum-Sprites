@@ -66,6 +66,7 @@
     {"id":{"name":"BrionyEmote","path":"sprites/BrionyEmote/BrionyEmote.yy",},},
     {"id":{"name":"BrionyIdle","path":"sprites/BrionyIdle/BrionyIdle.yy",},},
     {"id":{"name":"BrionyPlantsHitEffect","path":"sprites/BrionyPlantsHitEffect/BrionyPlantsHitEffect.yy",},},
+    {"id":{"name":"BrynjarrCircle","path":"sprites/BrynjarrCircle/BrynjarrCircle.yy",},},
     {"id":{"name":"BrynjarrWeapons","path":"sprites/BrynjarrWeapons/BrynjarrWeapons.yy",},},
     {"id":{"name":"BurgerShield","path":"sprites/BurgerShield/BurgerShield.yy",},},
     {"id":{"name":"CandaceSprite","path":"sprites/CandaceSprite/CandaceSprite.yy",},},
