@@ -77,6 +77,7 @@
     {"id":{"name":"CragnetSplash","path":"sprites/CragnetSplash/CragnetSplash.yy",},},
     {"id":{"name":"CyclopsTree","path":"sprites/CyclopsTree/CyclopsTree.yy",},},
     {"id":{"name":"CyclopsTreeBack","path":"sprites/CyclopsTreeBack/CyclopsTreeBack.yy",},},
+    {"id":{"name":"CyclopsTreeBackExtra","path":"sprites/CyclopsTreeBackExtra/CyclopsTreeBackExtra.yy",},},
     {"id":{"name":"CyclopsTreeFront","path":"sprites/CyclopsTreeFront/CyclopsTreeFront.yy",},},
     {"id":{"name":"CyclopsTreeFrontbackgrab","path":"sprites/CyclopsTreeFrontbackgrab/CyclopsTreeFrontbackgrab.yy",},},
     {"id":{"name":"CyclopsTreeFrontGrab","path":"sprites/CyclopsTreeFrontGrab/CyclopsTreeFrontGrab.yy",},},
