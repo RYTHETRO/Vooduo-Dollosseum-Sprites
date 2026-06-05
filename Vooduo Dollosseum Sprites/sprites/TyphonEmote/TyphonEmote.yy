@@ -2,9 +2,9 @@
   "$GMSprite":"v2",
   "%Name":"TyphonEmote",
   "bboxMode":0,
-  "bbox_bottom":1732,
+  "bbox_bottom":1703,
   "bbox_left":0,
-  "bbox_right":1402,
+  "bbox_right":1531,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"33148723-c1e7-43a3-9430-23e93f74af2d","name":"33148723-c1e7-43a3-9430-23e93f74af2d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"33f73d58-e593-452d-bf85-207b5f6e6d58","name":"33f73d58-e593-452d-bf85-207b5f6e6d58","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":1733,
+  "height":1704,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"7b94cd8a-69cb-4e57-8479-f88709138bfe","blendMode":0,"displayName":"default","isLocked":false,"name":"7b94cd8a-69cb-4e57-8479-f88709138bfe","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"c22f08de-270e-40eb-8d54-13283e11593f","blendMode":0,"displayName":"default","isLocked":false,"name":"c22f08de-270e-40eb-8d54-13283e11593f","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"TyphonEmote",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"33148723-c1e7-43a3-9430-23e93f74af2d","path":"sprites/TyphonEmote/TyphonEmote.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"4e493b72-c0bc-4482-af8b-0252249593da","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"33f73d58-e593-452d-bf85-207b5f6e6d58","path":"sprites/TyphonEmote/TyphonEmote.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"aca581eb-b94a-4cc7-83ce-7c759005f42c","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":1403,
+  "width":1532,
 }
