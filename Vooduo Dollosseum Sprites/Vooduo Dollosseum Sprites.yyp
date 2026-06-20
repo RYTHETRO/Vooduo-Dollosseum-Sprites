@@ -180,6 +180,7 @@
     {"id":{"name":"PepperGrow","path":"sprites/PepperGrow/PepperGrow.yy",},},
     {"id":{"name":"PepperSpin","path":"sprites/PepperSpin/PepperSpin.yy",},},
     {"id":{"name":"pikeIdle","path":"sprites/pikeIdle/pikeIdle.yy",},},
+    {"id":{"name":"PlatiniaCity","path":"sprites/PlatiniaCity/PlatiniaCity.yy",},},
     {"id":{"name":"PointerHand","path":"sprites/PointerHand/PointerHand.yy",},},
     {"id":{"name":"PointerTemp","path":"sprites/PointerTemp/PointerTemp.yy",},},
     {"id":{"name":"portalhiteffect","path":"sprites/portalhiteffect/portalhiteffect.yy",},},
