@@ -1,10 +1,10 @@
 {
   "$GMSprite":"v2",
-  "%Name":"PlatiniaCity",
+  "%Name":"PlatiniaCity_Pause_Panel",
   "bboxMode":0,
-  "bbox_bottom":1599,
+  "bbox_bottom":1938,
   "bbox_left":0,
-  "bbox_right":2879,
+  "bbox_right":1693,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,16 +12,16 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"8a4ecdae-54a4-4b96-899b-6e4032d57495","name":"8a4ecdae-54a4-4b96-899b-6e4032d57495","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"1f6b9b14-2fb0-4f66-8826-c8fff037ddec","name":"1f6b9b14-2fb0-4f66-8826-c8fff037ddec","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":1600,
+  "height":1939,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"a7a5e51d-ea03-4b45-b469-0f57ba5eecf3","blendMode":0,"displayName":"default (2)","isLocked":false,"name":"a7a5e51d-ea03-4b45-b469-0f57ba5eecf3","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"aa6d1194-bb32-4fa0-8cda-d90092024d32","blendMode":0,"displayName":"default","isLocked":false,"name":"aa6d1194-bb32-4fa0-8cda-d90092024d32","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"PlatiniaCity",
+  "name":"PlatiniaCity_Pause_Panel",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"PlatiniaCity",
+    "%Name":"PlatiniaCity_Pause_Panel",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"PlatiniaCity",
+    "name":"PlatiniaCity_Pause_Panel",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8a4ecdae-54a4-4b96-899b-6e4032d57495","path":"sprites/PlatiniaCity/PlatiniaCity.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"4407e5a1-0dd1-4d90-a8fa-7f9400af35a2","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1f6b9b14-2fb0-4f66-8826-c8fff037ddec","path":"sprites/PlatiniaCity_Pause_Panel/PlatiniaCity_Pause_Panel.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"84a5ded7-4775-4331-9e0e-531c1975b15c","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":2880,
+  "width":1694,
 }

@@ -1,6 +1,6 @@
 {
   "$GMSprite":"v2",
-  "%Name":"PlatiniaCity",
+  "%Name":"PlatiniaCity_Background",
   "bboxMode":0,
   "bbox_bottom":1599,
   "bbox_left":0,
@@ -12,16 +12,16 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"8a4ecdae-54a4-4b96-899b-6e4032d57495","name":"8a4ecdae-54a4-4b96-899b-6e4032d57495","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"2bb9e42f-7b9e-4bb0-8ab0-91e897c87335","name":"2bb9e42f-7b9e-4bb0-8ab0-91e897c87335","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":1600,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"a7a5e51d-ea03-4b45-b469-0f57ba5eecf3","blendMode":0,"displayName":"default (2)","isLocked":false,"name":"a7a5e51d-ea03-4b45-b469-0f57ba5eecf3","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"6c7615f4-36ab-454f-a81b-fa42c13808a3","blendMode":0,"displayName":"default","isLocked":false,"name":"6c7615f4-36ab-454f-a81b-fa42c13808a3","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"PlatiniaCity",
+  "name":"PlatiniaCity_Background",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"PlatiniaCity",
+    "%Name":"PlatiniaCity_Background",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"PlatiniaCity",
+    "name":"PlatiniaCity_Background",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8a4ecdae-54a4-4b96-899b-6e4032d57495","path":"sprites/PlatiniaCity/PlatiniaCity.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"4407e5a1-0dd1-4d90-a8fa-7f9400af35a2","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2bb9e42f-7b9e-4bb0-8ab0-91e897c87335","path":"sprites/PlatiniaCity_Background/PlatiniaCity_Background.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"08888e26-8d47-4ce8-8dc3-1922fcee1960","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
