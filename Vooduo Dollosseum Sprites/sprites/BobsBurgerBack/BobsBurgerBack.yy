@@ -1,6 +1,6 @@
 {
   "$GMSprite":"v2",
-  "%Name":"Yu",
+  "%Name":"BobsBurgerBack",
   "bboxMode":0,
   "bbox_bottom":1599,
   "bbox_left":0,
@@ -12,17 +12,16 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"c2587444-0fe5-4c99-be91-52a8b405e04d","name":"c2587444-0fe5-4c99-be91-52a8b405e04d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"e202aba8-9024-4cf0-b159-3ead3aa724c7","name":"e202aba8-9024-4cf0-b159-3ead3aa724c7","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":1600,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"933bfd0e-a062-4951-a9fb-82d2aad834e4","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"933bfd0e-a062-4951-a9fb-82d2aad834e4","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
-    {"$GMImageLayer":"","%Name":"177ffeff-be7b-4639-8b89-0a8647f77b64","blendMode":0,"displayName":"default","isLocked":false,"name":"177ffeff-be7b-4639-8b89-0a8647f77b64","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"219797a2-cd87-4c2f-87e5-18995579d7a4","blendMode":0,"displayName":"default","isLocked":false,"name":"219797a2-cd87-4c2f-87e5-18995579d7a4","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Yu",
+  "name":"BobsBurgerBack",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -34,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"Yu",
+    "%Name":"BobsBurgerBack",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -58,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Yu",
+    "name":"BobsBurgerBack",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -70,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c2587444-0fe5-4c99-be91-52a8b405e04d","path":"sprites/Yu/Yu.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"92a380ff-3cf2-4cb9-b8ae-b05cef0c5f92","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e202aba8-9024-4cf0-b159-3ead3aa724c7","path":"sprites/BobsBurgerBack/BobsBurgerBack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"f4d7a611-424c-431b-abf8-86e2fba9e4c5","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
