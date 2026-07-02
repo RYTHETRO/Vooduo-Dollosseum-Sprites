@@ -191,6 +191,7 @@
     {"id":{"name":"sCardoll","path":"sprites/sCardoll/sCardoll.yy",},},
     {"id":{"name":"sChainDoll","path":"sprites/sChainDoll/sChainDoll.yy",},},
     {"id":{"name":"sComputerDoll","path":"sprites/sComputerDoll/sComputerDoll.yy",},},
+    {"id":{"name":"sCountDown_Chef","path":"sprites/sCountDown_Chef/sCountDown_Chef.yy",},},
     {"id":{"name":"sCountDown_Ninja","path":"sprites/sCountDown_Ninja/sCountDown_Ninja.yy",},},
     {"id":{"name":"sCountDown_Robot","path":"sprites/sCountDown_Robot/sCountDown_Robot.yy",},},
     {"id":{"name":"sCountDown","path":"sprites/sCountDown/sCountDown.yy",},},
