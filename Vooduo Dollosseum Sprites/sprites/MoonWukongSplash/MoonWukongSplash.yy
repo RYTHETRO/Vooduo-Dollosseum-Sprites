@@ -2,9 +2,9 @@
   "$GMSprite":"v2",
   "%Name":"MoonWukongSplash",
   "bboxMode":0,
-  "bbox_bottom":1843,
+  "bbox_bottom":1841,
   "bbox_left":0,
-  "bbox_right":1530,
+  "bbox_right":1517,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"789b4956-d33c-4467-810a-b737303b373c","name":"789b4956-d33c-4467-810a-b737303b373c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"6b76dd1b-56af-4712-8772-dbc79105ec0b","name":"6b76dd1b-56af-4712-8772-dbc79105ec0b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":1844,
+  "height":1842,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"e5e9fb98-0e11-458b-beba-edda90a98d4e","blendMode":0,"displayName":"default","isLocked":false,"name":"e5e9fb98-0e11-458b-beba-edda90a98d4e","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"4ab46a7b-b66e-4236-9dc1-5bf0ae70cdab","blendMode":0,"displayName":"default","isLocked":false,"name":"4ab46a7b-b66e-4236-9dc1-5bf0ae70cdab","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"MoonWukongSplash",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"789b4956-d33c-4467-810a-b737303b373c","path":"sprites/MoonWukongSplash/MoonWukongSplash.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"ad408f2c-efdf-4e56-94b4-fc53a01a2f87","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"6b76dd1b-56af-4712-8772-dbc79105ec0b","path":"sprites/MoonWukongSplash/MoonWukongSplash.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"739a66f0-8d99-4246-b0a6-a4d47588d77d","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":1531,
+  "width":1518,
 }
