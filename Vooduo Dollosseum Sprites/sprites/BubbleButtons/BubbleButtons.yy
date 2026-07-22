@@ -19,6 +19,7 @@
     {"$GMSpriteFrame":"v1","%Name":"3db192b7-e8b4-46d9-bbf1-a41d02997520","name":"3db192b7-e8b4-46d9-bbf1-a41d02997520","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"v1","%Name":"196ca76e-7945-4898-b4e5-bb893d2951d3","name":"196ca76e-7945-4898-b4e5-bb893d2951d3","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"v1","%Name":"dd35b938-8cd0-45a7-9d82-f4e8b474e1ec","name":"dd35b938-8cd0-45a7-9d82-f4e8b474e1ec","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"94309f7d-f1e1-4995-ae6d-d5aee2c66f49","name":"94309f7d-f1e1-4995-ae6d-d5aee2c66f49","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -26,7 +27,7 @@
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"07cb9cc1-bef4-4471-b1f2-5db34470b056","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"07cb9cc1-bef4-4471-b1f2-5db34470b056","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
-    {"$GMImageLayer":"","%Name":"b58023fc-0404-4f47-a5bc-8b72244b4136","blendMode":0,"displayName":"default","isLocked":false,"name":"b58023fc-0404-4f47-a5bc-8b72244b4136","opacity":43.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"b58023fc-0404-4f47-a5bc-8b72244b4136","blendMode":0,"displayName":"default","isLocked":false,"name":"b58023fc-0404-4f47-a5bc-8b72244b4136","opacity":32.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"BubbleButtons",
   "nineSlice":null,
@@ -56,7 +57,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":7.0,
+    "length":8.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -96,6 +97,9 @@
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"dd35b938-8cd0-45a7-9d82-f4e8b474e1ec","path":"sprites/BubbleButtons/BubbleButtons.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"5a6fd28a-6e63-475a-9b1b-a45debbd479b","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"94309f7d-f1e1-4995-ae6d-d5aee2c66f49","path":"sprites/BubbleButtons/BubbleButtons.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"8c7bc3b6-2dd9-4118-93ad-f99675633ddb","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
