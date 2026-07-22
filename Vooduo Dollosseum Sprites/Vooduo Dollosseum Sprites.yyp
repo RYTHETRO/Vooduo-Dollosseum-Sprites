@@ -214,6 +214,7 @@
     {"id":{"name":"sCountDown_Robot","path":"sprites/sCountDown_Robot/sCountDown_Robot.yy",},},
     {"id":{"name":"sCountDown","path":"sprites/sCountDown/sCountDown.yy",},},
     {"id":{"name":"sDollTemplate","path":"sprites/sDollTemplate/sDollTemplate.yy",},},
+    {"id":{"name":"Settings","path":"sprites/Settings/Settings.yy",},},
     {"id":{"name":"sGravidoll","path":"sprites/sGravidoll/sGravidoll.yy",},},
     {"id":{"name":"ShadowEmote","path":"sprites/ShadowEmote/ShadowEmote.yy",},},
     {"id":{"name":"ShoozAOE","path":"sprites/ShoozAOE/ShoozAOE.yy",},},
