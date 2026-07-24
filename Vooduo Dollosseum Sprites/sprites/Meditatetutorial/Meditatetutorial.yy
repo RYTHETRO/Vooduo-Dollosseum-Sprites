@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"e9bb10e0-3c5a-4cf8-9383-13a4808423a2","name":"e9bb10e0-3c5a-4cf8-9383-13a4808423a2","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"27974a16-6784-4ed8-8947-71c12ad62f29","name":"27974a16-6784-4ed8-8947-71c12ad62f29","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":1600,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"b8014c64-c5e0-4792-b0a6-0daf097874a7","blendMode":0,"displayName":"default","isLocked":false,"name":"b8014c64-c5e0-4792-b0a6-0daf097874a7","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"ce84b0ef-b283-4ad9-892d-0620b99751c1","blendMode":0,"displayName":"default","isLocked":false,"name":"ce84b0ef-b283-4ad9-892d-0620b99751c1","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"Meditatetutorial",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e9bb10e0-3c5a-4cf8-9383-13a4808423a2","path":"sprites/Meditatetutorial/Meditatetutorial.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"551fb56d-ee8e-4514-8ff7-c70bfa6af781","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"27974a16-6784-4ed8-8947-71c12ad62f29","path":"sprites/Meditatetutorial/Meditatetutorial.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"b95a58e5-bcda-4359-8a71-d8d31604429d","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
