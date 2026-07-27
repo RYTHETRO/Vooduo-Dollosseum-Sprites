@@ -2,7 +2,7 @@
   "$GMSprite":"v2",
   "%Name":"GravityStormSplash",
   "bboxMode":0,
-  "bbox_bottom":1655,
+  "bbox_bottom":1583,
   "bbox_left":0,
   "bbox_right":1004,
   "bbox_top":0,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"fe8d7ab3-5329-49b3-8fa5-fe43b9d6c867","name":"fe8d7ab3-5329-49b3-8fa5-fe43b9d6c867","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"20236fde-336d-47ba-98ee-9909e039a2e9","name":"20236fde-336d-47ba-98ee-9909e039a2e9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":1656,
+  "height":1584,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"f716ef0b-f1ed-4e40-9976-9c8c71fe1180","blendMode":0,"displayName":"default","isLocked":false,"name":"f716ef0b-f1ed-4e40-9976-9c8c71fe1180","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"9c59dec9-bb53-4303-9390-d8b555fc6d2f","blendMode":0,"displayName":"default","isLocked":false,"name":"9c59dec9-bb53-4303-9390-d8b555fc6d2f","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"GravityStormSplash",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"fe8d7ab3-5329-49b3-8fa5-fe43b9d6c867","path":"sprites/GravityStormSplash/GravityStormSplash.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"22410215-aa94-45d0-93a1-93ee4eec43bb","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"20236fde-336d-47ba-98ee-9909e039a2e9","path":"sprites/GravityStormSplash/GravityStormSplash.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"ac15b7a7-e36f-4674-8db6-776be8e539ae","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

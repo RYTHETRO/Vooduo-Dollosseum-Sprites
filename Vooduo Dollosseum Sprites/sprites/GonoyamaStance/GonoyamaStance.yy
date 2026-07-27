@@ -23,7 +23,7 @@
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"83846d35-bdaf-4c54-a907-7e745f29037e","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"83846d35-bdaf-4c54-a907-7e745f29037e","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
-    {"$GMImageLayer":"","%Name":"9515bec3-3b99-456d-8a86-b14f7f19a5a8","blendMode":0,"displayName":"legs","isLocked":false,"name":"9515bec3-3b99-456d-8a86-b14f7f19a5a8","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"ec2fb2c9-7684-464f-b9be-fa7f5823a470","blendMode":0,"displayName":"legs","isLocked":false,"name":"ec2fb2c9-7684-464f-b9be-fa7f5823a470","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"GonoyamaStance",
   "nineSlice":null,

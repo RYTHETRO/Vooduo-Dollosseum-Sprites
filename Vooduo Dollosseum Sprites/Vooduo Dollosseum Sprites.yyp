@@ -85,6 +85,7 @@
     {"id":{"name":"EggShield","path":"sprites/EggShield/EggShield.yy",},},
     {"id":{"name":"EggShieldSplat","path":"sprites/EggShieldSplat/EggShieldSplat.yy",},},
     {"id":{"name":"EvineSprite","path":"sprites/EvineSprite/EvineSprite.yy",},},
+    {"id":{"name":"FastBackTrackArrowInstructions","path":"sprites/FastBackTrackArrowInstructions/FastBackTrackArrowInstructions.yy",},},
     {"id":{"name":"FearrorBob","path":"sprites/FearrorBob/FearrorBob.yy",},},
     {"id":{"name":"FearrorFlash","path":"sprites/FearrorFlash/FearrorFlash.yy",},},
     {"id":{"name":"FearrorSplash","path":"sprites/FearrorSplash/FearrorSplash.yy",},},

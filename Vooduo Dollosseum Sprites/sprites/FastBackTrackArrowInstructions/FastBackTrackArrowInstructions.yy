@@ -1,10 +1,10 @@
 {
   "$GMSprite":"v2",
-  "%Name":"GonoyamaIdle",
+  "%Name":"FastBackTrackArrowInstructions",
   "bboxMode":0,
-  "bbox_bottom":280,
+  "bbox_bottom":1599,
   "bbox_left":0,
-  "bbox_right":272,
+  "bbox_right":2879,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,18 +12,16 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"5f69c2df-8186-489e-9d10-046f5fa80c4d","name":"5f69c2df-8186-489e-9d10-046f5fa80c4d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"v1","%Name":"a15b5f2d-df49-4a47-a605-de298ddd5868","name":"a15b5f2d-df49-4a47-a605-de298ddd5868","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"0b60b40b-2b32-4dd6-bf97-53a160f06903","name":"0b60b40b-2b32-4dd6-bf97-53a160f06903","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":281,
+  "height":1600,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"83846d35-bdaf-4c54-a907-7e745f29037e","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"83846d35-bdaf-4c54-a907-7e745f29037e","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
-    {"$GMImageLayer":"","%Name":"f5696fc5-ecb0-4c75-abe1-772d696ad535","blendMode":0,"displayName":"legs","isLocked":false,"name":"f5696fc5-ecb0-4c75-abe1-772d696ad535","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"bc5ad038-0b58-459b-94fb-82d4e2c74963","blendMode":0,"displayName":"default","isLocked":false,"name":"bc5ad038-0b58-459b-94fb-82d4e2c74963","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"GonoyamaIdle",
+  "name":"FastBackTrackArrowInstructions",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -35,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"GonoyamaIdle",
+    "%Name":"FastBackTrackArrowInstructions",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -51,7 +49,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":2.0,
+    "length":1.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -59,9 +57,9 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"GonoyamaIdle",
+    "name":"FastBackTrackArrowInstructions",
     "playback":1,
-    "playbackSpeed":1.1,
+    "playbackSpeed":30.0,
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
@@ -71,11 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5f69c2df-8186-489e-9d10-046f5fa80c4d","path":"sprites/GonoyamaIdle/GonoyamaIdle.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"63e46542-5257-4b9c-bfcb-f5cd8a8a6435","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a15b5f2d-df49-4a47-a605-de298ddd5868","path":"sprites/GonoyamaIdle/GonoyamaIdle.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"f3ed91db-eaa9-47d5-9e22-16788b1ac771","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0b60b40b-2b32-4dd6-bf97-53a160f06903","path":"sprites/FastBackTrackArrowInstructions/FastBackTrackArrowInstructions.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"aa217c55-703a-4423-838e-7f7b554b7873","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -91,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":273,
+  "width":2880,
 }

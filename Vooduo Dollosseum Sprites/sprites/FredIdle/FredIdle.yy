@@ -3,7 +3,7 @@
   "%Name":"FredIdle",
   "bboxMode":0,
   "bbox_bottom":367,
-  "bbox_left":196,
+  "bbox_left":193,
   "bbox_right":305,
   "bbox_top":149,
   "collisionKind":1,
