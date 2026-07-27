@@ -1,6 +1,6 @@
 {
   "$GMSprite":"v2",
-  "%Name":"ConfigButton",
+  "%Name":"GamePadButton",
   "bboxMode":0,
   "bbox_bottom":406,
   "bbox_left":0,
@@ -12,17 +12,17 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"a2ba0481-49f5-4afa-96ea-c240275decfb","name":"a2ba0481-49f5-4afa-96ea-c240275decfb","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"v1","%Name":"abda5ec5-04f5-475c-8ab4-0e1a6ede4bf0","name":"abda5ec5-04f5-475c-8ab4-0e1a6ede4bf0","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"4c0a6f64-9973-47f2-94ce-a95a8bef1a62","name":"4c0a6f64-9973-47f2-94ce-a95a8bef1a62","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"e82e9020-775f-40a7-b61e-51176bf1edfd","name":"e82e9020-775f-40a7-b61e-51176bf1edfd","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":407,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"c224b5b5-e845-4e92-9f14-86d39e11f7f6","blendMode":0,"displayName":"default","isLocked":false,"name":"c224b5b5-e845-4e92-9f14-86d39e11f7f6","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"32c49288-4cf0-43fb-9f01-42eaf6077cc5","blendMode":0,"displayName":"default","isLocked":false,"name":"32c49288-4cf0-43fb-9f01-42eaf6077cc5","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"ConfigButton",
+  "name":"GamePadButton",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -34,7 +34,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"ConfigButton",
+    "%Name":"GamePadButton",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -58,7 +58,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"ConfigButton",
+    "name":"GamePadButton",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -70,11 +70,11 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a2ba0481-49f5-4afa-96ea-c240275decfb","path":"sprites/ConfigButton/ConfigButton.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"1c14d856-1a24-4361-a95c-e46c78b6c43d","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4c0a6f64-9973-47f2-94ce-a95a8bef1a62","path":"sprites/GamePadButton/GamePadButton.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"c5371a59-aaad-4134-9d89-aa9957a974a6","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"abda5ec5-04f5-475c-8ab4-0e1a6ede4bf0","path":"sprites/ConfigButton/ConfigButton.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"916a9632-be66-4c57-b71c-2dbc78e06d9b","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e82e9020-775f-40a7-b61e-51176bf1edfd","path":"sprites/GamePadButton/GamePadButton.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"633f6498-4b50-4976-a98b-54ce92f8c469","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
