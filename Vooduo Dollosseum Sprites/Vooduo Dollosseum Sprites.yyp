@@ -282,6 +282,7 @@
     {"id":{"name":"TyphonSprite","path":"sprites/TyphonSprite/TyphonSprite.yy",},},
     {"id":{"name":"UltimateDollosseumWall","path":"sprites/UltimateDollosseumWall/UltimateDollosseumWall.yy",},},
     {"id":{"name":"UnitCoins","path":"sprites/UnitCoins/UnitCoins.yy",},},
+    {"id":{"name":"UnitTypesTutorial","path":"sprites/UnitTypesTutorial/UnitTypesTutorial.yy",},},
     {"id":{"name":"VenBat","path":"sprites/VenBat/VenBat.yy",},},
     {"id":{"name":"VictoryDefeat","path":"sprites/VictoryDefeat/VictoryDefeat.yy",},},
     {"id":{"name":"VisualAccess","path":"sprites/VisualAccess/VisualAccess.yy",},},
