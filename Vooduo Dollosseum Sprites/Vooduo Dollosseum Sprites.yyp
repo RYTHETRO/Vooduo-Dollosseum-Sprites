@@ -277,6 +277,7 @@
     {"id":{"name":"TileTurnNinja","path":"sprites/TileTurnNinja/TileTurnNinja.yy",},},
     {"id":{"name":"TileTurnNinjaName","path":"sprites/TileTurnNinjaName/TileTurnNinjaName.yy",},},
     {"id":{"name":"TileTurnNinjaSplash","path":"sprites/TileTurnNinjaSplash/TileTurnNinjaSplash.yy",},},
+    {"id":{"name":"TrashEdit","path":"sprites/TrashEdit/TrashEdit.yy",},},
     {"id":{"name":"TyphonEmote","path":"sprites/TyphonEmote/TyphonEmote.yy",},},
     {"id":{"name":"TyphonLaugh","path":"sprites/TyphonLaugh/TyphonLaugh.yy",},},
     {"id":{"name":"TyphonSprite","path":"sprites/TyphonSprite/TyphonSprite.yy",},},
