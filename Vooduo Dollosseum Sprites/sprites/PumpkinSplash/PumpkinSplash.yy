@@ -1,10 +1,10 @@
 {
   "$GMSprite":"v2",
-  "%Name":"CombosTutorial",
+  "%Name":"PumpkinSplash",
   "bboxMode":0,
-  "bbox_bottom":1599,
+  "bbox_bottom":1003,
   "bbox_left":0,
-  "bbox_right":2879,
+  "bbox_right":839,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,16 +12,16 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"7d644291-7f57-41d0-b966-3b26378619ad","name":"7d644291-7f57-41d0-b966-3b26378619ad","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"dee3c4c1-9b3e-4061-bcdd-792750c2eb3f","name":"dee3c4c1-9b3e-4061-bcdd-792750c2eb3f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":1600,
+  "height":1004,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"30577f38-6d6f-4748-b227-f03eff5eed47","blendMode":0,"displayName":"default","isLocked":false,"name":"30577f38-6d6f-4748-b227-f03eff5eed47","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"2e681ba8-6382-430f-b1a0-bf6f3c866e75","blendMode":0,"displayName":"default","isLocked":false,"name":"2e681ba8-6382-430f-b1a0-bf6f3c866e75","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"CombosTutorial",
+  "name":"PumpkinSplash",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"CombosTutorial",
+    "%Name":"PumpkinSplash",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"CombosTutorial",
+    "name":"PumpkinSplash",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"7d644291-7f57-41d0-b966-3b26378619ad","path":"sprites/CombosTutorial/CombosTutorial.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"f733f9a2-9886-4862-a1fa-043c896f8255","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"dee3c4c1-9b3e-4061-bcdd-792750c2eb3f","path":"sprites/PumpkinSplash/PumpkinSplash.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"bcbc017a-bdf9-45ce-a99b-659973fe4860","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":2880,
+  "width":840,
 }
