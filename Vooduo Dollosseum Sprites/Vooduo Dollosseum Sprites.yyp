@@ -58,6 +58,7 @@
     {"id":{"name":"BowlingSiren_1","path":"sprites/BowlingSiren_1/BowlingSiren_1.yy",},},
     {"id":{"name":"BowlingSiren","path":"sprites/BowlingSiren/BowlingSiren.yy",},},
     {"id":{"name":"BowlingSirenIdle","path":"sprites/BowlingSirenIdle/BowlingSirenIdle.yy",},},
+    {"id":{"name":"BowlingSirenSplash","path":"sprites/BowlingSirenSplash/BowlingSirenSplash.yy",},},
     {"id":{"name":"BrionyEmote","path":"sprites/BrionyEmote/BrionyEmote.yy",},},
     {"id":{"name":"BrionyIdle","path":"sprites/BrionyIdle/BrionyIdle.yy",},},
     {"id":{"name":"BrionyPlantsHitEffect","path":"sprites/BrionyPlantsHitEffect/BrionyPlantsHitEffect.yy",},},

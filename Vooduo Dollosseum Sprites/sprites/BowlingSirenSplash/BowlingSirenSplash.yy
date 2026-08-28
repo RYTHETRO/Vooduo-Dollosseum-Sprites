@@ -1,28 +1,27 @@
 {
   "$GMSprite":"v2",
-  "%Name":"MedusaSplash",
+  "%Name":"BowlingSirenSplash",
   "bboxMode":0,
-  "bbox_bottom":1069,
-  "bbox_left":0,
-  "bbox_right":1371,
-  "bbox_top":0,
+  "bbox_bottom":1530,
+  "bbox_left":769,
+  "bbox_right":2196,
+  "bbox_top":98,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"be00518c-b680-49d3-b101-fe442137e03a","name":"be00518c-b680-49d3-b101-fe442137e03a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"c319bcaa-a880-4c7c-aea5-9dafaf44e8d8","name":"c319bcaa-a880-4c7c-aea5-9dafaf44e8d8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":1070,
+  "height":1600,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"0279e52b-05bf-483c-b875-78a9944676aa","blendMode":0,"displayName":"default","isLocked":false,"name":"0279e52b-05bf-483c-b875-78a9944676aa","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
-    {"$GMImageLayer":"","%Name":"4f32dba1-0e94-4a94-95f3-8aeb09c6313b","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"4f32dba1-0e94-4a94-95f3-8aeb09c6313b","opacity":20.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"da1bcc03-6448-44c1-aeb9-67792deb5ab7","blendMode":0,"displayName":"default","isLocked":false,"name":"da1bcc03-6448-44c1-aeb9-67792deb5ab7","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"MedusaSplash",
+  "name":"BowlingSirenSplash",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -34,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"MedusaSplash",
+    "%Name":"BowlingSirenSplash",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -58,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"MedusaSplash",
+    "name":"BowlingSirenSplash",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -70,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"be00518c-b680-49d3-b101-fe442137e03a","path":"sprites/MedusaSplash/MedusaSplash.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"993b2152-0f31-4a05-ad4f-c29ddec830ce","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c319bcaa-a880-4c7c-aea5-9dafaf44e8d8","path":"sprites/BowlingSirenSplash/BowlingSirenSplash.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"c9000007-846b-4608-a1e2-d61aecfe9e0c","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -87,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":1372,
+  "width":2880,
 }
