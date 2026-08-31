@@ -1,27 +1,27 @@
 {
   "$GMSprite":"v2",
-  "%Name":"BowlingSirenSplash",
+  "%Name":"SpeedPadSplash",
   "bboxMode":0,
-  "bbox_bottom":1530,
-  "bbox_left":769,
-  "bbox_right":2196,
-  "bbox_top":98,
+  "bbox_bottom":562,
+  "bbox_left":0,
+  "bbox_right":519,
+  "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"e4934775-ec6a-4366-b12a-573445757b23","name":"e4934775-ec6a-4366-b12a-573445757b23","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"a27c4969-43d6-4d64-a6bb-b6f502308a74","name":"a27c4969-43d6-4d64-a6bb-b6f502308a74","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":1600,
+  "height":563,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"30fe8211-68e8-4278-8f92-7b88e3f394b8","blendMode":0,"displayName":"default","isLocked":false,"name":"30fe8211-68e8-4278-8f92-7b88e3f394b8","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"2f863b71-d366-41e5-bb6d-7ef14a35ee80","blendMode":0,"displayName":"default","isLocked":false,"name":"2f863b71-d366-41e5-bb6d-7ef14a35ee80","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"BowlingSirenSplash",
+  "name":"SpeedPadSplash",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"BowlingSirenSplash",
+    "%Name":"SpeedPadSplash",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"BowlingSirenSplash",
+    "name":"SpeedPadSplash",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e4934775-ec6a-4366-b12a-573445757b23","path":"sprites/BowlingSirenSplash/BowlingSirenSplash.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"bac1b297-b45b-4dbc-b4fc-8614d2e3a9bb","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a27c4969-43d6-4d64-a6bb-b6f502308a74","path":"sprites/SpeedPadSplash/SpeedPadSplash.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"42ec19b5-a22a-47ad-807f-ec81cf873c1b","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":2880,
+  "width":520,
 }
