@@ -136,6 +136,7 @@
     {"id":{"name":"GyroEmote","path":"sprites/GyroEmote/GyroEmote.yy",},},
     {"id":{"name":"GyroIdle","path":"sprites/GyroIdle/GyroIdle.yy",},},
     {"id":{"name":"GyroSpells","path":"sprites/GyroSpells/GyroSpells.yy",},},
+    {"id":{"name":"Hammony","path":"sprites/Hammony/Hammony.yy",},},
     {"id":{"name":"HarmonyIdle","path":"sprites/HarmonyIdle/HarmonyIdle.yy",},},
     {"id":{"name":"HarmonyTurn","path":"sprites/HarmonyTurn/HarmonyTurn.yy",},},
     {"id":{"name":"HulaSplash","path":"sprites/HulaSplash/HulaSplash.yy",},},
