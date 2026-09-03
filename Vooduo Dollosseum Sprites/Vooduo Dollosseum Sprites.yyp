@@ -216,6 +216,7 @@
     {"id":{"name":"PartyButtons","path":"sprites/PartyButtons/PartyButtons.yy",},},
     {"id":{"name":"PartyButtons2","path":"sprites/PartyButtons2/PartyButtons2.yy",},},
     {"id":{"name":"PartyButtons3","path":"sprites/PartyButtons3/PartyButtons3.yy",},},
+    {"id":{"name":"PartyButtons6","path":"sprites/PartyButtons6/PartyButtons6.yy",},},
     {"id":{"name":"PartyButtonSymbols","path":"sprites/PartyButtonSymbols/PartyButtonSymbols.yy",},},
     {"id":{"name":"PepperGrow","path":"sprites/PepperGrow/PepperGrow.yy",},},
     {"id":{"name":"PepperSpin","path":"sprites/PepperSpin/PepperSpin.yy",},},
