@@ -216,6 +216,7 @@
     {"id":{"name":"PapperHitEffect","path":"sprites/PapperHitEffect/PapperHitEffect.yy",},},
     {"id":{"name":"PapperSplash","path":"sprites/PapperSplash/PapperSplash.yy",},},
     {"id":{"name":"PartyButtonLogo1","path":"sprites/PartyButtonLogo1/PartyButtonLogo1.yy",},},
+    {"id":{"name":"PartyButtonLogos2","path":"sprites/PartyButtonLogos2/PartyButtonLogos2.yy",},},
     {"id":{"name":"PartyButtons_6","path":"sprites/PartyButtons_6/PartyButtons_6.yy",},},
     {"id":{"name":"PartyButtons","path":"sprites/PartyButtons/PartyButtons.yy",},},
     {"id":{"name":"PartyButtons2","path":"sprites/PartyButtons2/PartyButtons2.yy",},},
