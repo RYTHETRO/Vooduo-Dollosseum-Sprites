@@ -77,6 +77,7 @@
     {"id":{"name":"ClonePadSplash","path":"sprites/ClonePadSplash/ClonePadSplash.yy",},},
     {"id":{"name":"CragnetHitEffect","path":"sprites/CragnetHitEffect/CragnetHitEffect.yy",},},
     {"id":{"name":"CragnetSplash","path":"sprites/CragnetSplash/CragnetSplash.yy",},},
+    {"id":{"name":"CyclopsTreeName","path":"sprites/CyclopsTreeName/CyclopsTreeName.yy",},},
     {"id":{"name":"CyclopsTreeSplash","path":"sprites/CyclopsTreeSplash/CyclopsTreeSplash.yy",},},
     {"id":{"name":"DangEmote","path":"sprites/DangEmote/DangEmote.yy",},},
     {"id":{"name":"Dashingtutorial","path":"sprites/Dashingtutorial/Dashingtutorial.yy",},},
