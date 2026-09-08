@@ -104,6 +104,7 @@
     {"id":{"name":"FearrorFlash","path":"sprites/FearrorFlash/FearrorFlash.yy",},},
     {"id":{"name":"FearrorSplash","path":"sprites/FearrorSplash/FearrorSplash.yy",},},
     {"id":{"name":"FireTrail","path":"sprites/FireTrail/FireTrail.yy",},},
+    {"id":{"name":"FlaizSplash","path":"sprites/FlaizSplash/FlaizSplash.yy",},},
     {"id":{"name":"Food","path":"sprites/Food/Food.yy",},},
     {"id":{"name":"FredEmote","path":"sprites/FredEmote/FredEmote.yy",},},
     {"id":{"name":"FredIdle","path":"sprites/FredIdle/FredIdle.yy",},},
