@@ -189,6 +189,7 @@
     {"id":{"name":"Minotaurtoprun","path":"sprites/Minotaurtoprun/Minotaurtoprun.yy",},},
     {"id":{"name":"Minotaurtopstep","path":"sprites/Minotaurtopstep/Minotaurtopstep.yy",},},
     {"id":{"name":"ModeButtons","path":"sprites/ModeButtons/ModeButtons.yy",},},
+    {"id":{"name":"MonsterButton","path":"sprites/MonsterButton/MonsterButton.yy",},},
     {"id":{"name":"MonsterMark","path":"sprites/MonsterMark/MonsterMark.yy",},},
     {"id":{"name":"MonsterName","path":"sprites/MonsterName/MonsterName.yy",},},
     {"id":{"name":"MoonWukongDollSplash","path":"sprites/MoonWukongDollSplash/MoonWukongDollSplash.yy",},},
