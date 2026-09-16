@@ -163,6 +163,7 @@
     {"id":{"name":"JoinDoll","path":"sprites/JoinDoll/JoinDoll.yy",},},
     {"id":{"name":"kateyIdle_2","path":"sprites/kateyIdle_2/kateyIdle_2.yy",},},
     {"id":{"name":"kateyIdle","path":"sprites/kateyIdle/kateyIdle.yy",},},
+    {"id":{"name":"KateySplash2","path":"sprites/KateySplash2/KateySplash2.yy",},},
     {"id":{"name":"KateyStoryEmote","path":"sprites/KateyStoryEmote/KateyStoryEmote.yy",},},
     {"id":{"name":"KenneratorEmote","path":"sprites/KenneratorEmote/KenneratorEmote.yy",},},
     {"id":{"name":"KenneratorIdle","path":"sprites/KenneratorIdle/KenneratorIdle.yy",},},
