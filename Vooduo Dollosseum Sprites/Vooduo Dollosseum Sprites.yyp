@@ -259,6 +259,7 @@
     {"id":{"name":"PumpkinGrow","path":"sprites/PumpkinGrow/PumpkinGrow.yy",},},
     {"id":{"name":"PumpkinIdle","path":"sprites/PumpkinIdle/PumpkinIdle.yy",},},
     {"id":{"name":"PumpkinSplash","path":"sprites/PumpkinSplash/PumpkinSplash.yy",},},
+    {"id":{"name":"PurpleMageSplash","path":"sprites/PurpleMageSplash/PurpleMageSplash.yy",},},
     {"id":{"name":"Revivewings","path":"sprites/Revivewings/Revivewings.yy",},},
     {"id":{"name":"RobileHitEffect","path":"sprites/RobileHitEffect/RobileHitEffect.yy",},},
     {"id":{"name":"Rokk","path":"sprites/Rokk/Rokk.yy",},},
