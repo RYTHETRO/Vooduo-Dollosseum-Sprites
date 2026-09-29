@@ -1,10 +1,10 @@
 {
   "$GMSprite":"v2",
-  "%Name":"ItemButton",
+  "%Name":"LogoVooDuo",
   "bboxMode":0,
-  "bbox_bottom":937,
+  "bbox_bottom":508,
   "bbox_left":0,
-  "bbox_right":1661,
+  "bbox_right":1299,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,17 +12,16 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"09358b4f-8149-48c0-8969-00f9cf98c9dd","name":"09358b4f-8149-48c0-8969-00f9cf98c9dd","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"v1","%Name":"6c920b3e-2d80-43b6-9833-e10c2ee77505","name":"6c920b3e-2d80-43b6-9833-e10c2ee77505","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"813d00fe-5f55-42cf-863f-6c27182810a2","name":"813d00fe-5f55-42cf-863f-6c27182810a2","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":938,
+  "height":509,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"fc9d44f0-c8cc-4881-9625-b95e4c2b669b","blendMode":0,"displayName":"default","isLocked":false,"name":"fc9d44f0-c8cc-4881-9625-b95e4c2b669b","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"ed23e23d-ec9d-4f00-aaa4-3f64d1821e2c","blendMode":0,"displayName":"default","isLocked":false,"name":"ed23e23d-ec9d-4f00-aaa4-3f64d1821e2c","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"ItemButton",
+  "name":"LogoVooDuo",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -34,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"ItemButton",
+    "%Name":"LogoVooDuo",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -50,7 +49,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":2.0,
+    "length":1.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -58,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"ItemButton",
+    "name":"LogoVooDuo",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -70,11 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"09358b4f-8149-48c0-8969-00f9cf98c9dd","path":"sprites/ItemButton/ItemButton.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"0aedcb31-aa1c-4c73-a547-c6188adcf6cb","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"6c920b3e-2d80-43b6-9833-e10c2ee77505","path":"sprites/ItemButton/ItemButton.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"79cd26d9-40fe-4f57-bd3a-70c4f4132753","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"813d00fe-5f55-42cf-863f-6c27182810a2","path":"sprites/LogoVooDuo/LogoVooDuo.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"c9694aae-085a-4829-b170-e82373f9aeb6","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -90,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":1662,
+  "width":1300,
 }
