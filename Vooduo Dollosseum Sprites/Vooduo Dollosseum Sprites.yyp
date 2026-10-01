@@ -69,6 +69,7 @@
     {"id":{"name":"BrionyPlantsHitEffect","path":"sprites/BrionyPlantsHitEffect/BrionyPlantsHitEffect.yy",},},
     {"id":{"name":"BubbleButtons","path":"sprites/BubbleButtons/BubbleButtons.yy",},},
     {"id":{"name":"BurgerShield","path":"sprites/BurgerShield/BurgerShield.yy",},},
+    {"id":{"name":"CandaceSplash","path":"sprites/CandaceSplash/CandaceSplash.yy",},},
     {"id":{"name":"CandaceSprite","path":"sprites/CandaceSprite/CandaceSprite.yy",},},
     {"id":{"name":"CandlelieraSplash","path":"sprites/CandlelieraSplash/CandlelieraSplash.yy",},},
     {"id":{"name":"CarrotGrow","path":"sprites/CarrotGrow/CarrotGrow.yy",},},
