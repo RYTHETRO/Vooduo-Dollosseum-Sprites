@@ -33,6 +33,7 @@
     {"id":{"name":"AkeldamaIdleSlash","path":"sprites/AkeldamaIdleSlash/AkeldamaIdleSlash.yy",},},
     {"id":{"name":"AkeldamaIdleSlash2","path":"sprites/AkeldamaIdleSlash2/AkeldamaIdleSlash2.yy",},},
     {"id":{"name":"AkeldamaIdleSlash3","path":"sprites/AkeldamaIdleSlash3/AkeldamaIdleSlash3.yy",},},
+    {"id":{"name":"AkeldamaSplash","path":"sprites/AkeldamaSplash/AkeldamaSplash.yy",},},
     {"id":{"name":"AzeriaBall","path":"sprites/AzeriaBall/AzeriaBall.yy",},},
     {"id":{"name":"AzeriaName","path":"sprites/AzeriaName/AzeriaName.yy",},},
     {"id":{"name":"AzeriaSplash","path":"sprites/AzeriaSplash/AzeriaSplash.yy",},},
