@@ -395,6 +395,7 @@
     {"id":{"name":"WolflowSprite","path":"sprites/WolflowSprite/WolflowSprite.yy",},},
     {"id":{"name":"YangSplash","path":"sprites/YangSplash/YangSplash.yy",},},
     {"id":{"name":"YaniEmote","path":"sprites/YaniEmote/YaniEmote.yy",},},
+    {"id":{"name":"YaniSplash","path":"sprites/YaniSplash/YaniSplash.yy",},},
     {"id":{"name":"YinSplash","path":"sprites/YinSplash/YinSplash.yy",},},
     {"id":{"name":"YinYangSplash","path":"sprites/YinYangSplash/YinYangSplash.yy",},},
     {"id":{"name":"Yu_temp","path":"sprites/Yu_temp/Yu_temp.yy",},},
