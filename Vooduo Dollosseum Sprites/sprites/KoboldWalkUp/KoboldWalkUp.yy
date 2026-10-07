@@ -26,7 +26,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"654ba920-3687-40fa-8a90-9c3ace542806","blendMode":0,"displayName":"body","isLocked":false,"name":"654ba920-3687-40fa-8a90-9c3ace542806","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"58567048-352f-41b6-baf6-e78716fdd6ec","blendMode":0,"displayName":"arms","isLocked":false,"name":"58567048-352f-41b6-baf6-e78716fdd6ec","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
-    {"$GMImageLayer":"","%Name":"ce4b511e-4507-4a51-aa52-b8d0e09f8894","blendMode":0,"displayName":"Head","isLocked":false,"name":"ce4b511e-4507-4a51-aa52-b8d0e09f8894","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":false,},
+    {"$GMImageLayer":"","%Name":"ce4b511e-4507-4a51-aa52-b8d0e09f8894","blendMode":0,"displayName":"Head","isLocked":false,"name":"ce4b511e-4507-4a51-aa52-b8d0e09f8894","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"KoboldWalkUp",
   "nineSlice":null,

@@ -1,6 +1,6 @@
 {
   "$GMSprite":"v2",
-  "%Name":"KoboldWalkDown",
+  "%Name":"KoboldWalkdown",
   "bboxMode":0,
   "bbox_bottom":198,
   "bbox_left":37,
@@ -29,7 +29,7 @@
     {"$GMImageLayer":"","%Name":"58567048-352f-41b6-baf6-e78716fdd6ec","blendMode":0,"displayName":"arms","isLocked":false,"name":"58567048-352f-41b6-baf6-e78716fdd6ec","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"654ba920-3687-40fa-8a90-9c3ace542806","blendMode":0,"displayName":"body","isLocked":false,"name":"654ba920-3687-40fa-8a90-9c3ace542806","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"KoboldWalkDown",
+  "name":"KoboldWalkdown",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -41,7 +41,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"KoboldWalkDown",
+    "%Name":"KoboldWalkdown",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -65,7 +65,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"KoboldWalkDown",
+    "name":"KoboldWalkdown",
     "playback":1,
     "playbackSpeed":15.0,
     "playbackSpeedType":0,
@@ -77,22 +77,22 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"6ad5ca9f-19b3-4c38-af35-8003e9b0504d","path":"sprites/KoboldWalkDown/KoboldWalkDown.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"6ad5ca9f-19b3-4c38-af35-8003e9b0504d","path":"sprites/KoboldWalkdown/KoboldWalkdown.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"07dfd627-a695-4b7c-b3d9-b5f8f0fc7c85","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1a343707-563e-4fc9-a63d-4777829f710a","path":"sprites/KoboldWalkDown/KoboldWalkDown.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1a343707-563e-4fc9-a63d-4777829f710a","path":"sprites/KoboldWalkdown/KoboldWalkdown.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"fdb21802-84ad-444b-b81f-8106f61d867c","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"72335054-f2e9-4f4f-bbb3-4f334d4b7040","path":"sprites/KoboldWalkDown/KoboldWalkDown.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"72335054-f2e9-4f4f-bbb3-4f334d4b7040","path":"sprites/KoboldWalkdown/KoboldWalkdown.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"89315736-9bb3-48e5-8482-1304882654ba","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"70b3fd20-18f8-45be-bcef-545d584f457d","path":"sprites/KoboldWalkDown/KoboldWalkDown.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"70b3fd20-18f8-45be-bcef-545d584f457d","path":"sprites/KoboldWalkdown/KoboldWalkdown.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"570fb80d-5d14-424d-bc69-bef7b9849caf","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d086fcce-3061-4527-b98a-ad27f76b01b0","path":"sprites/KoboldWalkDown/KoboldWalkDown.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d086fcce-3061-4527-b98a-ad27f76b01b0","path":"sprites/KoboldWalkdown/KoboldWalkdown.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"38c27517-b8e8-4f28-94cb-a328e116011a","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"db4ccba2-2458-4d4c-900b-b685e276d702","path":"sprites/KoboldWalkDown/KoboldWalkDown.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"db4ccba2-2458-4d4c-900b-b685e276d702","path":"sprites/KoboldWalkdown/KoboldWalkdown.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"131dfb61-eaf5-4ba9-b19e-1312c26986bc","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
