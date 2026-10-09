@@ -32,7 +32,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"0d70f1f7-d08b-46df-94e3-4c97c2763b74","blendMode":0,"displayName":"Layer 1","isLocked":true,"name":"0d70f1f7-d08b-46df-94e3-4c97c2763b74","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":false,},
     {"$GMImageLayer":"","%Name":"99ad1529-fd5e-441d-80fa-7bdc873d972d","blendMode":0,"displayName":"facial","isLocked":false,"name":"99ad1529-fd5e-441d-80fa-7bdc873d972d","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
-    {"$GMImageLayer":"","%Name":"97b1584d-6a3d-4d06-9947-bab003b444b6","blendMode":0,"displayName":"ears","isLocked":true,"name":"97b1584d-6a3d-4d06-9947-bab003b444b6","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"97b1584d-6a3d-4d06-9947-bab003b444b6","blendMode":0,"displayName":"ears","isLocked":false,"name":"97b1584d-6a3d-4d06-9947-bab003b444b6","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"a2c9649b-4a88-4d54-94bd-e3bbf6af0b8f","blendMode":0,"displayName":"ball","isLocked":true,"name":"a2c9649b-4a88-4d54-94bd-e3bbf6af0b8f","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"CheatsandTreats",
