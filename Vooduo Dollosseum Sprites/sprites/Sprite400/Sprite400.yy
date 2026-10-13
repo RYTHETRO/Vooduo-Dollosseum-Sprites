@@ -71,7 +71,7 @@
     {"$GMImageLayer":"","%Name":"e4a15617-25bb-4bbc-a219-d0a3b3b199f4","blendMode":0,"displayName":"legs","isLocked":false,"name":"e4a15617-25bb-4bbc-a219-d0a3b3b199f4","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"dd2ef4f0-8c82-4f7c-9294-1810446ab735","blendMode":0,"displayName":"body","isLocked":false,"name":"dd2ef4f0-8c82-4f7c-9294-1810446ab735","opacity":49.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"b4742909-be82-4b1f-8029-64ee483b2837","blendMode":0,"displayName":"Hole Hammer","isLocked":true,"name":"b4742909-be82-4b1f-8029-64ee483b2837","opacity":46.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
-    {"$GMImageLayer":"","%Name":"a12bfdfd-957e-4991-b32a-15e91fa83173","blendMode":0,"displayName":"default","isLocked":true,"name":"a12bfdfd-957e-4991-b32a-15e91fa83173","opacity":43.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":false,},
+    {"$GMImageLayer":"","%Name":"a12bfdfd-957e-4991-b32a-15e91fa83173","blendMode":0,"displayName":"default","isLocked":true,"name":"a12bfdfd-957e-4991-b32a-15e91fa83173","opacity":43.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"Sprite400",
   "nineSlice":null,
