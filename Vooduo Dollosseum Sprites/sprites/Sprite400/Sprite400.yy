@@ -66,11 +66,12 @@
   "height":1500,
   "HTile":false,
   "layers":[
+    {"$GMImageLayer":"","%Name":"7356d14b-a287-4c20-bcc3-cc0d4a996853","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"7356d14b-a287-4c20-bcc3-cc0d4a996853","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"d38d6bb6-2442-4cde-893a-0216edd7b171","blendMode":0,"displayName":"facial","isLocked":false,"name":"d38d6bb6-2442-4cde-893a-0216edd7b171","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"e4a15617-25bb-4bbc-a219-d0a3b3b199f4","blendMode":0,"displayName":"legs","isLocked":true,"name":"e4a15617-25bb-4bbc-a219-d0a3b3b199f4","opacity":48.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"dd2ef4f0-8c82-4f7c-9294-1810446ab735","blendMode":0,"displayName":"body","isLocked":true,"name":"dd2ef4f0-8c82-4f7c-9294-1810446ab735","opacity":49.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"b4742909-be82-4b1f-8029-64ee483b2837","blendMode":0,"displayName":"Hole Hammer","isLocked":true,"name":"b4742909-be82-4b1f-8029-64ee483b2837","opacity":46.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
-    {"$GMImageLayer":"","%Name":"a12bfdfd-957e-4991-b32a-15e91fa83173","blendMode":0,"displayName":"default","isLocked":true,"name":"a12bfdfd-957e-4991-b32a-15e91fa83173","opacity":43.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"a12bfdfd-957e-4991-b32a-15e91fa83173","blendMode":0,"displayName":"default","isLocked":true,"name":"a12bfdfd-957e-4991-b32a-15e91fa83173","opacity":43.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":false,},
   ],
   "name":"Sprite400",
   "nineSlice":null,
