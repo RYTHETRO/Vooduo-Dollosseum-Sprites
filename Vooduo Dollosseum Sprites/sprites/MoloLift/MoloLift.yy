@@ -3,7 +3,7 @@
   "%Name":"MoloLift",
   "bboxMode":0,
   "bbox_bottom":856,
-  "bbox_left":70,
+  "bbox_left":71,
   "bbox_right":1051,
   "bbox_top":103,
   "collisionKind":1,
