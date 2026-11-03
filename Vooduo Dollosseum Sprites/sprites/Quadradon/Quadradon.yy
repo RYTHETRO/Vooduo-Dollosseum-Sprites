@@ -33,7 +33,7 @@
   "height":400,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"dd0839bd-0f77-409d-9742-5a9d42088c92","blendMode":0,"displayName":"dirt","isLocked":false,"name":"dd0839bd-0f77-409d-9742-5a9d42088c92","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"9c8f7953-6249-4b62-b284-9e00d10b563c","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"9c8f7953-6249-4b62-b284-9e00d10b563c","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"572980cc-ccd2-4aad-8528-8215cde13720","blendMode":0,"displayName":"default","isLocked":false,"name":"572980cc-ccd2-4aad-8528-8215cde13720","opacity":47.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":false,},
   ],
   "name":"Quadradon",
