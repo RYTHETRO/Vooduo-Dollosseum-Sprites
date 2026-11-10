@@ -2,7 +2,7 @@
   "$GMSprite":"v2",
   "%Name":"Quadradon_Attack",
   "bboxMode":0,
-  "bbox_bottom":356,
+  "bbox_bottom":366,
   "bbox_left":106,
   "bbox_right":485,
   "bbox_top":20,
