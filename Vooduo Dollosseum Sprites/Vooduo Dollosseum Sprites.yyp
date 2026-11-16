@@ -430,6 +430,7 @@
     {"id":{"name":"TileTurnNinjaSplash","path":"sprites/TileTurnNinjaSplash/TileTurnNinjaSplash.yy",},},
     {"id":{"name":"TitleSplash","path":"sprites/TitleSplash/TitleSplash.yy",},},
     {"id":{"name":"TrashEdit","path":"sprites/TrashEdit/TrashEdit.yy",},},
+    {"id":{"name":"TutorialCat","path":"sprites/TutorialCat/TutorialCat.yy",},},
     {"id":{"name":"TyphonEmote","path":"sprites/TyphonEmote/TyphonEmote.yy",},},
     {"id":{"name":"TyphonLaugh","path":"sprites/TyphonLaugh/TyphonLaugh.yy",},},
     {"id":{"name":"TyphonSprite","path":"sprites/TyphonSprite/TyphonSprite.yy",},},
