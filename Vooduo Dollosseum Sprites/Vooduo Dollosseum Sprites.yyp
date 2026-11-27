@@ -110,6 +110,7 @@
     {"id":{"name":"DefenseBear","path":"sprites/DefenseBear/DefenseBear.yy",},},
     {"id":{"name":"DefenseBearSplash","path":"sprites/DefenseBearSplash/DefenseBearSplash.yy",},},
     {"id":{"name":"DollCloud","path":"sprites/DollCloud/DollCloud.yy",},},
+    {"id":{"name":"DollySplash","path":"sprites/DollySplash/DollySplash.yy",},},
     {"id":{"name":"DragonHitEffect","path":"sprites/DragonHitEffect/DragonHitEffect.yy",},},
     {"id":{"name":"DrakeHit","path":"sprites/DrakeHit/DrakeHit.yy",},},
     {"id":{"name":"Dvil","path":"sprites/Dvil/Dvil.yy",},},
